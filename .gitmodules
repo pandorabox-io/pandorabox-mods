@@ -277,9 +277,6 @@
 [submodule "available/moretrees"]
 	path = available/moretrees
 	url = https://gitlab.com/VanessaE/moretrees.git
-[submodule "available/mt_auth_proxy"]
-	path = available/mt_auth_proxy
-	url = https://github.com/thomasrudin-mt/mt_auth_proxy.git
 [submodule "available/multitools"]
 	path = available/multitools
 	url = https://github.com/ChimneySwift/multitools.git
