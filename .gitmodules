@@ -462,3 +462,6 @@
 [submodule "available/stairs"]
 	path = available/stairs
 	url = https://notabug.org/TenPlus1/stairs.git
+[submodule "available/atm"]
+	path = available/atm
+	url = https://github.com/pandorabox-io/atm.git
