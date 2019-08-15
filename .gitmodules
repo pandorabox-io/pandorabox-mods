@@ -455,3 +455,6 @@
 [submodule "available/tpr"]
 	path = available/tpr
 	url = https://github.com/ChaosWormz/teleport-request
+[submodule "available/hidden_doors"]
+	path = available/hidden_doors
+	url = https://github.com/pandorabox-io/hidden_doors.git
