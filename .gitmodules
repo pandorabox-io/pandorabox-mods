@@ -459,3 +459,6 @@
 [submodule "available/auth_proxy_mod"]
 	path = available/auth_proxy_mod
 	url = https://github.com/thomasrudin-mt/auth_proxy_mod
+[submodule "available/stairs"]
+	path = available/stairs
+	url = https://notabug.org/TenPlus1/stairs.git
