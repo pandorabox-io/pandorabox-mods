@@ -157,6 +157,7 @@
 [submodule "available/hazmat_suit"]
 	path = available/hazmat_suit
 	url = https://github.com/pandorabox-io/hazmat_suit.git
+	branch = pandorabox
 [submodule "available/homedecor_modpack"]
 	path = available/homedecor_modpack
 	url = https://gitlab.com/VanessaE/homedecor_modpack.git
