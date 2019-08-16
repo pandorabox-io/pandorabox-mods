@@ -348,9 +348,6 @@
 [submodule "available/sling"]
 	path = available/sling
 	url = https://github.com/minetest-mods/sling.git
-[submodule "available/smartrenting"]
-	path = available/smartrenting
-	url = https://github.com/AiTechEye/smartrenting.git
 [submodule "available/smartshop"]
 	path = available/smartshop
 	url = https://github.com/pandorabox-io/smartshop.git
