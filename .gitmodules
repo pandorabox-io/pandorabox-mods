@@ -157,6 +157,7 @@
 [submodule "available/hazmat_suit"]
 	path = available/hazmat_suit
 	url = https://github.com/pandorabox-io/hazmat_suit.git
+	branch = pandorabox
 [submodule "available/homedecor_modpack"]
 	path = available/homedecor_modpack
 	url = https://gitlab.com/VanessaE/homedecor_modpack.git
@@ -455,3 +456,9 @@
 [submodule "available/auth_proxy_mod"]
 	path = available/auth_proxy_mod
 	url = https://github.com/thomasrudin-mt/auth_proxy_mod
+[submodule "available/stairs"]
+	path = available/stairs
+	url = https://notabug.org/TenPlus1/stairs.git
+[submodule "available/atm"]
+	path = available/atm
+	url = https://github.com/pandorabox-io/atm.git
