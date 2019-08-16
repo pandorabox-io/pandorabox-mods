@@ -64,9 +64,6 @@
 [submodule "available/bridger"]
 	path = available/bridger
 	url = https://github.com/v-rob/bridger.git
-[submodule "available/bushes"]
-	path = available/bushes
-	url = https://github.com/pandorabox-io/bushes.git
 [submodule "available/canned_food"]
 	path = available/canned_food
 	url = https://github.com/h-v-smacker/canned_food.git
@@ -300,9 +297,6 @@
 [submodule "available/planetoids"]
 	path = available/planetoids
 	url = https://github.com/pandorabox-io/planetoids.git
-[submodule "available/plantlife_modpack"]
-	path = available/plantlife_modpack
-	url = https://gitlab.com/VanessaE/plantlife_modpack.git
 [submodule "available/pontoons"]
 	path = available/pontoons
 	url = https://github.com/minetest-mods/pontoons.git
