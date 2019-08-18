@@ -1,458 +1,458 @@
 [submodule "available/3d_armor"]
-	path = available/3d_armor
+	path = 3d_armor
 	url = https://github.com/stujones11/minetest-3d_armor.git
 [submodule "available/adv_keys"]
-	path = available/adv_keys
+	path = adv_keys
 	url = https://github.com/Lejo1/adv_keys.git
 [submodule "available/advtrains"]
-	path = available/advtrains
+	path = advtrains
 	url = https://github.com/pandorabox-io/advtrains.git
 [submodule "available/advtrains_platform"]
-	path = available/advtrains_platform
+	path = advtrains_platform
 	url = https://github.com/pandorabox-io/advtrains_platform.git
 [submodule "available/advtrains_railbus"]
-	path = available/advtrains_railbus
+	path = advtrains_railbus
 	url = https://github.com/mbblp/advtrains_railbus.git
 [submodule "available/advtrains_subway_colored"]
-	path = available/advtrains_subway_colored
+	path = advtrains_subway_colored
 	url = https://github.com/pandorabox-io/advtrains_subway_colored.git
 [submodule "available/ambience"]
-	path = available/ambience
+	path = ambience
 	url = https://notabug.org/TenPlus1/ambience.git
 [submodule "available/anvil"]
-	path = available/anvil
+	path = anvil
 	url = https://github.com/minetest-mods/anvil.git
 [submodule "available/areas"]
-	path = available/areas
+	path = areas
 	url = https://github.com/minetest-mods/areas.git
 [submodule "available/bakedclay"]
-	path = available/bakedclay
+	path = bakedclay
 	url = https://notabug.org/TenPlus1/bakedclay.git
 [submodule "available/banners"]
-	path = available/banners
+	path = banners
 	url = https://github.com/pandorabox-io/banners.git
 [submodule "available/beacon"]
-	path = available/beacon
+	path = beacon
 	url = https://github.com/pandorabox-io/beacon.git
 [submodule "available/bedrock"]
-	path = available/bedrock
+	path = bedrock
 	url = https://github.com/Calinou/bedrock.git
 [submodule "available/beerchat"]
-	path = available/beerchat
+	path = beerchat
 	url = https://github.com/pandorabox-io/beerchat.git
 [submodule "available/beerchat_web"]
-	path = available/beerchat_web
+	path = beerchat_web
 	url = https://github.com/pandorabox-io/beerchat_web.git
 [submodule "available/bike"]
-	path = available/bike
+	path = bike
 	url = https://gitlab.com/h2mm/bike.git
 [submodule "available/biofuel"]
-	path = available/biofuel
+	path = biofuel
 	url = https://github.com/pandorabox-io/Biofuel.git
 [submodule "available/biome_lib"]
-	path = available/biome_lib
+	path = biome_lib
 	url = https://github.com/pandorabox-io/biome_lib.git
 [submodule "available/bonemeal"]
-	path = available/bonemeal
+	path = bonemeal
 	url = https://notabug.org/TenPlus1/bonemeal.git
 [submodule "available/boost_cart"]
-	path = available/boost_cart
+	path = boost_cart
 	url = https://github.com/SmallJoker/boost_cart.git
 [submodule "available/bow"]
-	path = available/bow
+	path = bow
 	url = https://github.com/Arcelmi/minetest-bows.git
 [submodule "available/bridger"]
-	path = available/bridger
+	path = bridger
 	url = https://github.com/v-rob/bridger.git
 [submodule "available/canned_food"]
-	path = available/canned_food
+	path = canned_food
 	url = https://github.com/h-v-smacker/canned_food.git
 [submodule "available/castle_gates"]
-	path = available/castle_gates
+	path = castle_gates
 	url = https://github.com/minetest-mods/castle_gates.git
 [submodule "available/castle_weapons"]
-	path = available/castle_weapons
+	path = castle_weapons
 	url = https://github.com/minetest-mods/castle_weapons.git
 [submodule "available/ccompass"]
-	path = available/ccompass
+	path = ccompass
 	url = https://github.com/minetest-mods/ccompass.git
 [submodule "available/charcoal"]
-	path = available/charcoal
+	path = charcoal
 	url = https://cheapiesystems.com/git/charcoal
 [submodule "available/controls"]
-	path = available/controls
+	path = controls
 	url = https://github.com/Arcelmi/minetest-controls.git
 [submodule "available/currency"]
-	path = available/currency
+	path = currency
 	url = https://gitlab.com/VanessaE/currency.git
 [submodule "available/datastorage"]
-	path = available/datastorage
+	path = datastorage
 	url = https://github.com/minetest-technic/datastorage.git
 [submodule "available/digilines"]
-	path = available/digilines
+	path = digilines
 	url = https://github.com/minetest-mods/digilines.git
 [submodule "available/digistuff"]
-	path = available/digistuff
+	path = digistuff
 	url = https://github.com/pandorabox-io/digistuff.git
 [submodule "available/digiterms"]
-	path = available/digiterms
+	path = digiterms
 	url = https://github.com/pyrollo/digiterms.git
 [submodule "available/digtron"]
-	path = available/digtron
+	path = digtron
 	url = https://github.com/pandorabox-io/digtron.git
 [submodule "available/display_modpack"]
-	path = available/display_modpack
+	path = display_modpack
 	url = https://github.com/pyrollo/display_modpack.git
 [submodule "available/drawers"]
-	path = available/drawers
+	path = drawers
 	url = https://github.com/minetest-mods/drawers.git
 [submodule "available/easyvend"]
-	path = available/easyvend
+	path = easyvend
 	url = https://repo.or.cz/minetest_easyvend.git
 [submodule "available/ehlphabet"]
-	path = available/ehlphabet
+	path = ehlphabet
 	url = https://github.com/ehlodex/ehlphabet.git
 [submodule "available/elevator"]
-	path = available/elevator
+	path = elevator
 	url = https://github.com/shacknetisp/elevator.git
 [submodule "available/endless_apples"]
-	path = available/endless_apples
+	path = endless_apples
 	url = https://github.com/Ezhh/endless_apples.git
 [submodule "available/factory_bridges"]
-	path = available/factory_bridges
+	path = factory_bridges
 	url = https://github.com/pandorabox-io/factory_bridges.git
 [submodule "available/farming"]
-	path = available/farming
+	path = farming
 	url = https://notabug.org/TenPlus1/farming.git
 [submodule "available/farming_nextgen"]
-	path = available/farming_nextgen
+	path = farming_nextgen
 	url = https://github.com/berengma/farming_nextgen.git
 [submodule "available/font_botic"]
-	path = available/font_botic
+	path = font_botic
 	url = https://github.com/pyrollo/font_botic.git
 [submodule "available/framedglass"]
-	path = available/framedglass
+	path = framedglass
 	url = https://github.com/minetest-mods/framedglass.git
 [submodule "available/fsc"]
-	path = available/fsc
+	path = fsc
 	url = https://github.com/sofar/fsc.git
 [submodule "available/geocache"]
-	path = available/geocache
+	path = geocache
 	url = https://github.com/pandorabox-io/geocache.git
 [submodule "available/geoip"]
-	path = available/geoip
+	path = geoip
 	url = https://github.com/pandorabox-io/geoip.git
 [submodule "available/gravity_manager"]
-	path = available/gravity_manager
+	path = gravity_manager
 	url = https://github.com/pandorabox-io/gravity_manager.git
 [submodule "available/guest_blocker"]
-	path = available/guest_blocker
+	path = guest_blocker
 	url = https://github.com/thomasrudin-mt/guest_blocker.git
 [submodule "available/hangglider"]
-	path = available/hangglider
+	path = hangglider
 	url = https://notabug.org/Piezo_/minetest-hangglider.git
 [submodule "available/hazmat_suit"]
-	path = available/hazmat_suit
+	path = hazmat_suit
 	url = https://github.com/pandorabox-io/hazmat_suit.git
 	branch = pandorabox
 [submodule "available/homedecor_modpack"]
-	path = available/homedecor_modpack
+	path = homedecor_modpack
 	url = https://gitlab.com/VanessaE/homedecor_modpack.git
 [submodule "available/ilights"]
-	path = available/ilights
+	path = ilights
 	url = https://gitlab.com/VanessaE/ilights.git
 [submodule "available/inspector"]
-	path = available/inspector
+	path = inspector
 	url = https://github.com/minetest-mods/inspector.git
 [submodule "available/jumpdrive"]
-	path = available/jumpdrive
+	path = jumpdrive
 	url = https://github.com/thomasrudin-mt/jumpdrive.git
 [submodule "available/jumping"]
-	path = available/jumping
+	path = jumping
 	url = https://github.com/minetest-mods/jumping.git
 [submodule "available/lag_warning"]
-	path = available/lag_warning
+	path = lag_warning
 	url = https://github.com/pandorabox-io/lag_warning.git
 [submodule "available/lavastone"]
-	path = available/lavastone
+	path = lavastone
 	url = https://github.com/pandorabox-io/lavastone.git
 [submodule "available/lavastuff"]
-	path = available/lavastuff
+	path = lavastuff
 	url = https://github.com/LoneWolfHT/lavastuff.git
 [submodule "available/led_marquee"]
-	path = available/led_marquee
+	path = led_marquee
 	url = https://gitlab.com/VanessaE/led_marquee.git
 [submodule "available/letters"]
-	path = available/letters
+	path = letters
 	url = https://github.com/minetest-mods/letters.git
 [submodule "available/locator"]
-	path = available/locator
+	path = locator
 	url = https://git.rudin.io/minetest/locator.git
 [submodule "available/loot"]
-	path = available/loot
+	path = loot
 	url = https://github.com/minetest-mods/loot.git
 [submodule "available/mail"]
-	path = available/mail
+	path = mail
 	url = https://github.com/thomasrudin-mt/mail.git
 [submodule "available/mapserver"]
-	path = available/mapserver
+	path = mapserver
 	url = https://github.com/minetest-tools/mapserver_mod.git
 [submodule "available/maptools"]
-	path = available/maptools
+	path = maptools
 	url = https://github.com/minetest-mods/maptools.git
 [submodule "available/mesecons"]
-	path = available/mesecons
+	path = mesecons
 	url = https://github.com/minetest-mods/mesecons.git
 [submodule "available/mesecons_stealthnode"]
-	path = available/mesecons_stealthnode
+	path = mesecons_stealthnode
 	url = https://github.com/acmgit/mesecons_stealthnode.git
 [submodule "available/mesecons_protected_button"]
-	path = available/mesecons_protected_button
+	path = mesecons_protected_button
 	url = https://github.com/pandorabox-io/mesecons_protected_button.git
 [submodule "available/mesecons_protected_switch"]
-	path = available/mesecons_protected_switch
+	path = mesecons_protected_switch
 	url = https://github.com/pandorabox-io/mesecons_protected_switch.git
 [submodule "available/missions"]
-	path = available/missions
+	path = missions
 	url = https://github.com/thomasrudin-mt/missions.git
 [submodule "available/mob_horse"]
-	path = available/mob_horse
+	path = mob_horse
 	url = https://notabug.org/TenPlus1/mob_horse.git
 [submodule "available/mobs"]
-	path = available/mobs
+	path = mobs
 	url = https://notabug.org/TenPlus1/mobs_redo.git
 [submodule "available/mobs_animal"]
-	path = available/mobs_animal
+	path = mobs_animal
 	url = https://notabug.org/TenPlus1/mobs_animal.git
 [submodule "available/mobs_monster"]
-	path = available/mobs_monster
+	path = mobs_monster
 	url = https://notabug.org/TenPlus1/mobs_monster.git
 [submodule "available/mobs_npc"]
-	path = available/mobs_npc
+	path = mobs_npc
 	url = https://notabug.org/TenPlus1/mobs_npc.git
 [submodule "available/mobs_water"]
-	path = available/mobs_water
+	path = mobs_water
 	url = https://notabug.org/TenPlus1/mobs_water.git
 [submodule "available/mobs_xenomorph"]
-	path = available/mobs_xenomorph
+	path = mobs_xenomorph
 	url = https://github.com/pandorabox-io/mobs_xenomorph.git
 [submodule "available/moderator_armor"]
-	path = available/moderator_armor
+	path = moderator_armor
 	url = https://github.com/pandorabox-io/moderator_armor.git
 [submodule "available/monitoring"]
-	path = available/monitoring
+	path = monitoring
 	url = https://github.com/thomasrudin-mt/monitoring.git
 [submodule "available/monitoring_advtrains"]
-	path = available/monitoring_advtrains
+	path = monitoring_advtrains
 	url = https://github.com/thomasrudin-mt/monitoring_advtrains.git
 [submodule "available/monitoring_digtron"]
-	path = available/monitoring_digtron
+	path = monitoring_digtron
 	url = https://github.com/thomasrudin-mt/monitoring_digtron.git
 [submodule "available/monitoring_mesecons"]
-	path = available/monitoring_mesecons
+	path = monitoring_mesecons
 	url = https://github.com/thomasrudin-mt/monitoring_mesecons.git
 [submodule "available/monitoring_pipeworks"]
-	path = available/monitoring_pipeworks
+	path = monitoring_pipeworks
 	url = https://github.com/thomasrudin-mt/monitoring_pipeworks.git
 [submodule "available/monitoring_protection"]
-	path = available/monitoring_protection
+	path = monitoring_protection
 	url = https://github.com/thomasrudin-mt/monitoring_protection.git
 [submodule "available/monitoring_technic"]
-	path = available/monitoring_technic
+	path = monitoring_technic
 	url = https://github.com/thomasrudin-mt/monitoring_technic.git
 [submodule "available/moreblocks"]
-	path = available/moreblocks
+	path = moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
 [submodule "available/more_chests"]
-	path = available/more_chests
+	path = more_chests
 	url = https://github.com/minetest-mods/more_chests.git
 [submodule "available/morelights"]
-	path = available/morelights
+	path = morelights
 	url = https://github.com/random-geek/morelights.git
 [submodule "available/moreores"]
-	path = available/moreores
+	path = moreores
 	url = https://github.com/minetest-mods/moreores.git
 [submodule "available/moretrees"]
-	path = available/moretrees
+	path = moretrees
 	url = https://gitlab.com/VanessaE/moretrees.git
 [submodule "available/multitools"]
-	path = available/multitools
+	path = multitools
 	url = https://github.com/ChimneySwift/multitools.git
 [submodule "available/pandorabox_custom"]
-	path = available/pandorabox_custom
+	path = pandorabox_custom
 	url = https://github.com/pandorabox-io/pandorabox_custom.git
 [submodule "available/pipeworks"]
-	path = available/pipeworks
+	path = pipeworks
 	url = https://github.com/pandorabox-io/pipeworks.git
 	branch = pandorabox
 [submodule "available/planet_mars"]
-	path = available/planet_mars
+	path = planet_mars
 	url = https://github.com/pandorabox-io/planet_mars.git
 [submodule "available/planet_moon"]
-	path = available/planet_moon
+	path = planet_moon
 	url = https://github.com/pandorabox-io/planet_moon.git
 [submodule "available/planetoidgen"]
-	path = available/planetoidgen
+	path = planetoidgen
 	url = https://github.com/pandorabox-io/planetoidgen.git
 [submodule "available/planetoids"]
-	path = available/planetoids
+	path = planetoids
 	url = https://github.com/pandorabox-io/planetoids.git
 [submodule "available/pontoons"]
-	path = available/pontoons
+	path = pontoons
 	url = https://github.com/minetest-mods/pontoons.git
 [submodule "available/poshud"]
-	path = available/poshud
+	path = poshud
 	url = https://github.com/thomasrudin-mt/poshud.git
 [submodule "available/prefab"]
-	path = available/prefab
+	path = prefab
 	url = https://github.com/minetest-mods/prefab.git
 [submodule "available/priv_protector"]
-	path = available/priv_protector
+	path = priv_protector
 	url = https://git.rudin.io/minetest/priv_protector.git
 [submodule "available/protector"]
-	path = available/protector
+	path = protector
 	url = https://github.com/pandorabox-io/protector.git
 [submodule "available/pvp_areas"]
-	path = available/pvp_areas
+	path = pvp_areas
 	url = https://github.com/everamzah/pvp_areas.git
 [submodule "available/replacer"]
-	path = available/replacer
+	path = replacer
 	url = https://github.com/Sokomine/replacer.git
 [submodule "available/ropes"]
-	path = available/ropes
+	path = ropes
 	url = https://github.com/minetest-mods/ropes.git
 [submodule "available/scifi_nodes"]
-	path = available/scifi_nodes
+	path = scifi_nodes
 	url = https://github.com/D00Med/scifi_nodes.git
 [submodule "available/server_news"]
-	path = available/server_news
+	path = server_news
 	url = https://github.com/Ezhh/server_news.git
 [submodule "available/settime_throttle"]
-	path = available/settime_throttle
+	path = settime_throttle
 	url = https://github.com/thomasrudin-mt/settime_throttle.git
 [submodule "available/signs_lib"]
-	path = available/signs_lib
+	path = signs_lib
 	url = https://gitlab.com/VanessaE/signs_lib.git
 [submodule "available/skinsdb"]
-	path = available/skinsdb
+	path = skinsdb
 	url = https://github.com/pandorabox-io/skinsdb.git
 	branch = pandorabox
 [submodule "available/skybox"]
-	path = available/skybox
+	path = skybox
 	url = https://github.com/pandorabox-io/skybox.git
 [submodule "available/sling"]
-	path = available/sling
+	path = sling
 	url = https://github.com/minetest-mods/sling.git
 [submodule "available/smartshop"]
-	path = available/smartshop
+	path = smartshop
 	url = https://github.com/pandorabox-io/smartshop.git
 	branch = pandorabox
 [submodule "available/soundblock"]
-	path = available/soundblock
+	path = soundblock
 	url = https://github.com/thomasrudin-mt/soundblock.git
 [submodule "available/soundblock_scifi"]
-	path = available/soundblock_scifi
+	path = soundblock_scifi
 	url = https://github.com/thomasrudin-mt/soundblock_scifi.git
 [submodule "available/spacecannon"]
-	path = available/spacecannon
+	path = spacecannon
 	url = https://github.com/pandorabox-io/spacecannon.git
 [submodule "available/spacesuit"]
-	path = available/spacesuit
+	path = spacesuit
 	url = https://github.com/thomasrudin-mt/spacesuit.git
 [submodule "available/spawn_command"]
-	path = available/spawn_command
+	path = spawn_command
 	url = https://github.com/minetest-mods/spawn_command.git
 [submodule "available/stained_glass"]
-	path = available/stained_glass
+	path = stained_glass
 	url = https://github.com/andersje/stained_glass.git
 [submodule "available/stamina"]
-	path = available/stamina
+	path = stamina
 	url = https://github.com/pandorabox-io/stamina.git
 [submodule "available/technic"]
-	path = available/technic
+	path = technic
 	url = https://github.com/pandorabox-io/technic.git
 	branch = pandorabox
 [submodule "available/technic_armor"]
-	path = available/technic_armor
+	path = technic_armor
 	url = https://github.com/stujones11/technic_armor.git
 [submodule "available/technicmetrics"]
-	path = available/technicmetrics
+	path = technicmetrics
 	url = https://github.com/thomasrudin-mt/technicmetrics.git
 [submodule "available/telemosaic"]
-	path = available/telemosaic
+	path = telemosaic
 	url = https://github.com/pandorabox-io/telemosaic.git
 [submodule "available/textline"]
-	path = available/textline
+	path = textline
 	url = https://github.com/gbl08ma/textline.git
 [submodule "available/throwing"]
-	path = available/throwing
+	path = throwing
 	url = https://github.com/minetest-mods/throwing.git
 [submodule "available/throwing_arrows"]
-	path = available/throwing_arrows
+	path = throwing_arrows
 	url = https://github.com/minetest-mods/throwing_arrows.git
 [submodule "available/toolranks"]
-	path = available/toolranks
+	path = toolranks
 	url = https://github.com/lisacvuk/minetest-toolranks.git
 [submodule "available/travelnet"]
-	path = available/travelnet
+	path = travelnet
 	url = https://github.com/Sokomine/travelnet.git
 [submodule "available/unified_inventory"]
-	path = available/unified_inventory
+	path = unified_inventory
 	url = https://github.com/thomasrudin-mt/unified_inventory.git
 [submodule "available/unified_inventory_plus"]
-	path = available/unified_inventory_plus
+	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus.git
 [submodule "available/unifiedbricks"]
-	path = available/unifiedbricks
+	path = unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks.git
 [submodule "available/unifieddyes"]
-	path = available/unifieddyes
+	path = unifieddyes
 	url = https://gitlab.com/VanessaE/unifieddyes.git
 [submodule "available/vacuum"]
-	path = available/vacuum
+	path = vacuum
 	url = https://github.com/thomasrudin-mt/vacuum.git
 [submodule "available/vines"]
-	path = available/vines
+	path = vines
 	url = https://github.com/bas080/vines.git
 [submodule "available/warzone"]
-	path = available/warzone
+	path = warzone
 	url = https://github.com/pandorabox-io/warzone.git
 [submodule "available/wine"]
-	path = available/wine
+	path = wine
 	url = https://notabug.org/TenPlus1/wine.git
 [submodule "available/woodcutting"]
-	path = available/woodcutting
+	path = woodcutting
 	url = https://github.com/minetest-mods/woodcutting.git
 [submodule "available/WorldEdit"]
-	path = available/WorldEdit
+	path = WorldEdit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
 [submodule "available/xban2"]
-	path = available/xban2
+	path = xban2
 	url = https://github.com/minetest-mods/xban2.git
 [submodule "available/xp_redo"]
-	path = available/xp_redo
+	path = xp_redo
 	url = https://github.com/thomasrudin-mt/xp_redo.git
 [submodule "available/xp_redo_ranks_ores"]
-	path = available/xp_redo_ranks_ores
+	path = xp_redo_ranks_ores
 	url = https://github.com/thomasrudin-mt/xp_redo_ranks_ores.git
 [submodule "available/fancy_vend"]
-	path = available/fancy_vend
+	path = fancy_vend
 	url = https://github.com/ChimneySwift/fancy_vend.git
 [submodule "available/basic_materials"]
-	path = available/basic_materials
+	path = basic_materials
 	url = https://gitlab.com/VanessaE/basic_materials.git
 [submodule "available/tpr"]
-	path = available/tpr
+	path = tpr
 	url = https://github.com/ChaosWormz/teleport-request
 [submodule "available/hidden_doors"]
-	path = available/hidden_doors
+	path = hidden_doors
 	url = https://github.com/pandorabox-io/hidden_doors.git
 [submodule "available/auth_proxy_mod"]
-	path = available/auth_proxy_mod
+	path = auth_proxy_mod
 	url = https://github.com/thomasrudin-mt/auth_proxy_mod
 [submodule "available/stairs"]
-	path = available/stairs
+	path = stairs
 	url = https://notabug.org/TenPlus1/stairs.git
 [submodule "available/atm"]
-	path = available/atm
+	path = atm
 	url = https://github.com/pandorabox-io/atm.git
