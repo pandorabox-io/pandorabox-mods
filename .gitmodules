@@ -456,3 +456,6 @@
 [submodule "available/atm"]
 	path = atm
 	url = https://github.com/pandorabox-io/atm.git
+[submodule "mesecons_debug"]
+	path = mesecons_debug
+	url = https://github.com/thomasrudin-mt/mesecons_debug.git
