@@ -456,3 +456,6 @@
 [submodule "priv_protector"]
 	path = priv_protector
 	url = https://github.com/pandorabox-io/priv_protector.git
+[submodule "locator"]
+	path = locator
+	url = https://github.com/pandorabox-io/locator.git
