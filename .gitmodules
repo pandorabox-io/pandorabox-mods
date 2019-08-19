@@ -185,9 +185,6 @@
 [submodule "available/letters"]
 	path = letters
 	url = https://github.com/minetest-mods/letters.git
-[submodule "available/locator"]
-	path = locator
-	url = https://git.rudin.io/minetest/locator.git
 [submodule "available/loot"]
 	path = loot
 	url = https://github.com/minetest-mods/loot.git
