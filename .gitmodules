@@ -457,3 +457,7 @@
 	path = woodcutting
 	url = https://github.com/thomasrudin-mt/woodcutting
 	branch = nil-check
+[submodule "prefab"]
+	path = prefab
+	url = https://github.com/thomasrudin-mt/prefab.git
+	branch = fence-damage-setting
