@@ -456,3 +456,6 @@
 [submodule "mesecons_debug"]
 	path = mesecons_debug
 	url = https://github.com/thomasrudin-mt/mesecons_debug.git
+[submodule "protector"]
+	path = protector
+	url = https://notabug.org/tenplus1/protector.git
