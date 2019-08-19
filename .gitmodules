@@ -300,9 +300,6 @@
 [submodule "available/poshud"]
 	path = poshud
 	url = https://github.com/thomasrudin-mt/poshud.git
-[submodule "available/prefab"]
-	path = prefab
-	url = https://github.com/minetest-mods/prefab.git
 [submodule "available/pvp_areas"]
 	path = pvp_areas
 	url = https://github.com/everamzah/pvp_areas.git
