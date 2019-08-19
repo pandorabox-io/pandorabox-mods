@@ -309,9 +309,6 @@
 [submodule "available/priv_protector"]
 	path = priv_protector
 	url = https://git.rudin.io/minetest/priv_protector.git
-[submodule "available/protector"]
-	path = protector
-	url = https://github.com/pandorabox-io/protector.git
 [submodule "available/pvp_areas"]
 	path = pvp_areas
 	url = https://github.com/everamzah/pvp_areas.git
