@@ -456,3 +456,7 @@
 [submodule "locator"]
 	path = locator
 	url = https://github.com/pandorabox-io/locator.git
+[submodule "woodcutting"]
+	path = woodcutting
+	url = https://github.com/thomasrudin-mt/woodcutting
+	branch = nil-check
