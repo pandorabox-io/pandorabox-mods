@@ -411,9 +411,6 @@
 [submodule "available/wine"]
 	path = wine
 	url = https://notabug.org/TenPlus1/wine.git
-[submodule "available/woodcutting"]
-	path = woodcutting
-	url = https://github.com/minetest-mods/woodcutting.git
 [submodule "available/WorldEdit"]
 	path = WorldEdit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
