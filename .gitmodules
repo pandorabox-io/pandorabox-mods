@@ -456,3 +456,6 @@
 [submodule "protector"]
 	path = protector
 	url = https://notabug.org/tenplus1/protector.git
+[submodule "priv_protector"]
+	path = priv_protector
+	url = https://github.com/pandorabox-io/priv_protector.git
