@@ -459,3 +459,9 @@
 [submodule "locator"]
 	path = locator
 	url = https://github.com/pandorabox-io/locator.git
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids.git
+[submodule "armor_monoid"]
+	path = armor_monoid
+	url = https://github.com/minetest-mods/armor_monoid.git
