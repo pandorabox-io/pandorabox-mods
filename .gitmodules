@@ -347,9 +347,6 @@
 [submodule "spacesuit"]
 	path = spacesuit
 	url = https://github.com/thomasrudin-mt/spacesuit.git
-[submodule "spawn_command"]
-	path = spawn_command
-	url = https://github.com/minetest-mods/spawn_command.git
 [submodule "stained_glass"]
 	path = stained_glass
 	url = https://github.com/andersje/stained_glass.git
