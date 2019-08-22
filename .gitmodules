@@ -466,3 +466,6 @@
 [submodule "armor_monoid"]
 	path = armor_monoid
 	url = https://github.com/minetest-mods/armor_monoid.git
+[submodule "cherrytree"]
+	path = cherrytree
+	url = https://github.com/pandorabox-io/cherrytree.git
