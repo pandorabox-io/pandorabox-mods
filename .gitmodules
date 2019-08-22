@@ -51,7 +51,7 @@
 	url = https://github.com/pandorabox-io/Biofuel.git
 [submodule "biome_lib"]
 	path = biome_lib
-	url = https://github.com/pandorabox-io/biome_lib.git
+	url = https://gitlab.com/VanessaE/biome_lib.git
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://notabug.org/TenPlus1/bonemeal.git
