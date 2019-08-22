@@ -436,7 +436,7 @@
 	url = https://github.com/thomasrudin-mt/auth_proxy_mod
 [submodule "stairs"]
 	path = stairs
-	url = https://notabug.org/TenPlus1/stairs.git
+	url = https://github.com/pandorabox-io/stairs.git
 [submodule "atm"]
 	path = atm
 	url = https://github.com/pandorabox-io/atm.git
