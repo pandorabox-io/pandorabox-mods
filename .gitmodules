@@ -78,7 +78,8 @@
 	url = https://github.com/minetest-mods/ccompass.git
 [submodule "charcoal"]
 	path = charcoal
-	url = https://cheapiesystems.com/git/charcoal
+	url = https://github.com/pandorabox-io/charcoal.git
+	branch = pandorabox
 [submodule "controls"]
 	path = controls
 	url = https://github.com/Arcelmi/minetest-controls.git
