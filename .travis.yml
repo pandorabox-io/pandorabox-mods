@@ -1,0 +1,13 @@
+language: generic
+addons:
+  apt:
+    packages:
+    - luarocks
+before_install:
+  - luarocks install --local luacheck
+script:
+- $HOME/.luarocks/bin/luacheck --config ./pandorabox_custom/.luacheckrc ./pandorabox_custom
+- $HOME/.luarocks/bin/luacheck --config ./mapserver_mod/.luacheckrc ./mapserver_mod
+
+notifications:
+  email: false
