@@ -11,6 +11,14 @@ git submodule init
 git submodule update
 ```
 
+## Updating
+
+```
+git submodule sync
+git submodule init
+git submodule update
+```
+
 ## Advisable settings
 
 ```

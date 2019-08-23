@@ -51,7 +51,7 @@
 	url = https://github.com/pandorabox-io/Biofuel.git
 [submodule "biome_lib"]
 	path = biome_lib
-	url = https://github.com/pandorabox-io/biome_lib.git
+	url = https://gitlab.com/VanessaE/biome_lib.git
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://notabug.org/TenPlus1/bonemeal.git
@@ -300,9 +300,6 @@
 [submodule "poshud"]
 	path = poshud
 	url = https://github.com/thomasrudin-mt/poshud.git
-[submodule "prefab"]
-	path = prefab
-	url = https://github.com/minetest-mods/prefab.git
 [submodule "pvp_areas"]
 	path = pvp_areas
 	url = https://github.com/everamzah/pvp_areas.git
@@ -351,15 +348,12 @@
 [submodule "spacesuit"]
 	path = spacesuit
 	url = https://github.com/thomasrudin-mt/spacesuit.git
-[submodule "spawn_command"]
-	path = spawn_command
-	url = https://github.com/minetest-mods/spawn_command.git
 [submodule "stained_glass"]
 	path = stained_glass
 	url = https://github.com/andersje/stained_glass.git
 [submodule "stamina"]
 	path = stamina
-	url = https://github.com/pandorabox-io/stamina.git
+	url = https://github.com/minetest-mods/stamina.git
 [submodule "technic"]
 	path = technic
 	url = https://github.com/pandorabox-io/technic.git
@@ -412,9 +406,6 @@
 [submodule "wine"]
 	path = wine
 	url = https://notabug.org/TenPlus1/wine.git
-[submodule "woodcutting"]
-	path = woodcutting
-	url = https://github.com/minetest-mods/woodcutting.git
 [submodule "WorldEdit"]
 	path = WorldEdit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
@@ -429,7 +420,8 @@
 	url = https://github.com/thomasrudin-mt/xp_redo_ranks_ores.git
 [submodule "fancy_vend"]
 	path = fancy_vend
-	url = https://github.com/ChimneySwift/fancy_vend.git
+	url = https://github.com/pandorabox-io/fancy_vend.git
+	branch = pandorabox
 [submodule "basic_materials"]
 	path = basic_materials
 	url = https://gitlab.com/VanessaE/basic_materials.git
@@ -444,7 +436,7 @@
 	url = https://github.com/thomasrudin-mt/auth_proxy_mod
 [submodule "stairs"]
 	path = stairs
-	url = https://notabug.org/TenPlus1/stairs.git
+	url = https://github.com/pandorabox-io/stairs.git
 [submodule "atm"]
 	path = atm
 	url = https://github.com/pandorabox-io/atm.git
@@ -460,9 +452,20 @@
 [submodule "locator"]
 	path = locator
 	url = https://github.com/pandorabox-io/locator.git
+[submodule "woodcutting"]
+	path = woodcutting
+	url = https://github.com/thomasrudin-mt/woodcutting
+	branch = nil-check
+[submodule "prefab"]
+	path = prefab
+	url = https://github.com/thomasrudin-mt/prefab.git
+	branch = fence-damage-setting
 [submodule "player_monoids"]
 	path = player_monoids
 	url = https://github.com/minetest-mods/player_monoids.git
 [submodule "armor_monoid"]
 	path = armor_monoid
 	url = https://github.com/minetest-mods/armor_monoid.git
+[submodule "cherrytree"]
+	path = cherrytree
+	url = https://github.com/pandorabox-io/cherrytree.git
