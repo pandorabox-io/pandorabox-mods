@@ -30,4 +30,7 @@ mesecon.luacontroller_lightweight_interrupts = true
 
 # don't let the unified inventory show *all* slopes/slabs (use the table saw for that)
 moreblocks.stairsplus_in_creative_inventory = false
+
+# enable bridger trusses
+bridger_enable_trusses = true
 ```
