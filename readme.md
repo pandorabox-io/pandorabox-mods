@@ -33,4 +33,7 @@ moreblocks.stairsplus_in_creative_inventory = false
 
 # enable bridger trusses
 bridger_enable_trusses = true
+
+# enable telemosaic rightclick teleport
+telemosaic_right_click_teleport = true
 ```
