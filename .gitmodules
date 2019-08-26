@@ -459,8 +459,8 @@
 	branch = nil-check
 [submodule "prefab"]
 	path = prefab
-	url = https://github.com/thomasrudin-mt/prefab.git
-	branch = fence-damage-setting
+	url = https://github.com/minetest-mods/prefab.git
+	branch = master
 [submodule "player_monoids"]
 	path = player_monoids
 	url = https://github.com/minetest-mods/player_monoids.git
