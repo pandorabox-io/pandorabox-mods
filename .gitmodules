@@ -300,7 +300,7 @@
 	url = https://github.com/minetest-mods/pontoons.git
 [submodule "poshud"]
 	path = poshud
-	url = https://github.com/thomasrudin-mt/poshud.git
+	url = https://github.com/orwell96/poshud.git
 [submodule "pvp_areas"]
 	path = pvp_areas
 	url = https://github.com/everamzah/pvp_areas.git
