@@ -1,13 +1,13 @@
 language: generic
-addons:
-  apt:
-    packages:
-    - luarocks
+
+services:
+ - docker
+
 before_install:
-  - luarocks install --local luacheck
+ - docker run --rm -it -v $(pwd)/debug.txt:/var/lib/minetest/.minetest/debug.txt -v $(pwd):/var/lib/minetest/.minetest/worlds/world registry.gitlab.com/minetest/minetest/server:5.0.1
+
 script:
-- $HOME/.luarocks/bin/luacheck --config ./pandorabox_custom/.luacheckrc ./pandorabox_custom
-- $HOME/.luarocks/bin/luacheck --config ./mapserver/.luacheckrc ./mapserver
+ - echo ok
 
 notifications:
   email: false
