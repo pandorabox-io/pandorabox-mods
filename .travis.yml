@@ -4,6 +4,7 @@ services:
  - docker
 
 before_install:
+ - touch debug.txt
  - docker run --rm -it -v $(pwd)/debug.txt:/var/lib/minetest/.minetest/debug.txt -v $(pwd):/var/lib/minetest/.minetest/worlds/world registry.gitlab.com/minetest/minetest/server:5.0.1
 
 script:
