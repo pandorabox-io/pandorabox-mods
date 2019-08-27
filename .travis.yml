@@ -4,9 +4,12 @@ services:
  - docker
 
 before_install:
- - touch debug.txt
- - chmod 777 debug.txt
- - docker run --rm -it -v $(pwd)/debug.txt:/var/lib/minetest/.minetest/debug.txt -v $(pwd):/var/lib/minetest/.minetest/worlds/world registry.gitlab.com/minetest/minetest/server:5.0.1
+ - touch /tmp/debug.txt
+ - chmod 777 /tmp/debug.txt
+ - mkdir worldmods
+ - mv * worldmods
+ - chmod 777 .
+ - docker run --rm -it -v /tmp/debug.txt:/var/lib/minetest/.minetest/debug.txt -v $(pwd):/var/lib/minetest/.minetest/worlds/world registry.gitlab.com/minetest/minetest/server:5.0.1
 
 script:
  - echo ok
