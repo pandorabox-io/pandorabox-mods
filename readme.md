@@ -1,5 +1,7 @@
 # Pandorabox mods
 
+[![Build Status](https://travis-ci.com/pandorabox-io/pandorabox-mods.svg?branch=master)](https://travis-ci.com/pandorabox-io/pandorabox-mods)
+
 Pandorabox mod repo
 
 ## Install
