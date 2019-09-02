@@ -8,17 +8,22 @@ Pandorabox mod repo
 
 
 After cloning:
-```
+```bash
 git submodule init
 git submodule update
 ```
 
 ## Updating
 
-```
+```bash
+# sync repo urls
 git submodule sync
+# initialize new repos
 git submodule init
+# update commits
 git submodule update
+# remove unversioned files
+git clean -dff
 ```
 
 ## Advisable settings
