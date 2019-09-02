@@ -240,24 +240,6 @@
 [submodule "monitoring"]
 	path = monitoring
 	url = https://github.com/thomasrudin-mt/monitoring.git
-[submodule "monitoring_advtrains"]
-	path = monitoring_advtrains
-	url = https://github.com/thomasrudin-mt/monitoring_advtrains.git
-[submodule "monitoring_digtron"]
-	path = monitoring_digtron
-	url = https://github.com/thomasrudin-mt/monitoring_digtron.git
-[submodule "monitoring_mesecons"]
-	path = monitoring_mesecons
-	url = https://github.com/thomasrudin-mt/monitoring_mesecons.git
-[submodule "monitoring_pipeworks"]
-	path = monitoring_pipeworks
-	url = https://github.com/thomasrudin-mt/monitoring_pipeworks.git
-[submodule "monitoring_protection"]
-	path = monitoring_protection
-	url = https://github.com/thomasrudin-mt/monitoring_protection.git
-[submodule "monitoring_technic"]
-	path = monitoring_technic
-	url = https://github.com/thomasrudin-mt/monitoring_technic.git
 [submodule "moreblocks"]
 	path = moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
