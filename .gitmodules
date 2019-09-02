@@ -448,3 +448,6 @@
 [submodule "cherrytree"]
 	path = cherrytree
 	url = https://github.com/pandorabox-io/cherrytree.git
+[submodule "shell"]
+	path = shell
+	url = https://github.com/thomasrudin-mt/shell.git
