@@ -49,7 +49,7 @@ telemosaic_right_click_teleport = true
 
 ## Optional mods
 
-The following mods can be safely deleted in multiplayer:
+The following mods can be safely deleted in singleplayer:
 
 ```
 monitoring
