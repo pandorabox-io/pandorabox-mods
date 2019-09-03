@@ -26,6 +26,8 @@ git submodule update
 git clean -dff
 ```
 
+Or use the `update.sh` script in the root path
+
 ## Advisable settings
 
 ```
@@ -43,4 +45,16 @@ bridger_enable_trusses = true
 
 # enable telemosaic rightclick teleport
 telemosaic_right_click_teleport = true
+```
+
+## Optional mods
+
+The following mods can be safely deleted in multiplayer:
+
+```
+monitoring
+mesecons_debug
+mail
+mapserver
+geoip
 ```
