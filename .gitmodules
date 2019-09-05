@@ -456,3 +456,6 @@
 [submodule "bamboo"]
 	path = bamboo
 	url = https://github.com/pandorabox-io/bamboo
+[submodule "redwood"]
+	path = redwood
+	url = https://github.com/thomasrudin-mt/redwood.git
