@@ -264,7 +264,6 @@
 [submodule "pipeworks"]
 	path = pipeworks
 	url = https://github.com/pandorabox-io/pipeworks.git
-	branch = pandorabox
 [submodule "planet_mars"]
 	path = planet_mars
 	url = https://github.com/pandorabox-io/planet_mars.git
