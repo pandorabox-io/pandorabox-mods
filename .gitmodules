@@ -453,3 +453,6 @@
 [submodule "poshud"]
 	path = poshud
 	url = https://github.com/orwell96/poshud.git
+[submodule "bamboo"]
+	path = bamboo
+	url = https://github.com/pandorabox-io/bamboo
