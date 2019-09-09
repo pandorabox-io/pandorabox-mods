@@ -291,7 +291,7 @@
 	url = https://github.com/minetest-mods/ropes.git
 [submodule "scifi_nodes"]
 	path = scifi_nodes
-	url = https://github.com/D00Med/scifi_nodes.git
+	url = https://github.com/thomasrudin-mt/scifi_nodes.git
 [submodule "server_news"]
 	path = server_news
 	url = https://github.com/Ezhh/server_news.git
