@@ -58,3 +58,8 @@ mail
 mapserver
 geoip
 ```
+
+## Testing
+
+The mod collection can be tested with the `test.sh` script.
+prerequisite is a working docker setup
