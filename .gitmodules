@@ -146,9 +146,6 @@
 [submodule "gravity_manager"]
 	path = gravity_manager
 	url = https://github.com/pandorabox-io/gravity_manager.git
-[submodule "guest_blocker"]
-	path = guest_blocker
-	url = https://github.com/thomasrudin-mt/guest_blocker.git
 [submodule "hangglider"]
 	path = hangglider
 	url = https://notabug.org/Piezo_/minetest-hangglider.git
