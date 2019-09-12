@@ -292,9 +292,6 @@
 [submodule "server_news"]
 	path = server_news
 	url = https://github.com/Ezhh/server_news.git
-[submodule "settime_throttle"]
-	path = settime_throttle
-	url = https://github.com/thomasrudin-mt/settime_throttle.git
 [submodule "signs_lib"]
 	path = signs_lib
 	url = https://gitlab.com/VanessaE/signs_lib.git
