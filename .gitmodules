@@ -334,9 +334,6 @@
 [submodule "technic_armor"]
 	path = technic_armor
 	url = https://github.com/stujones11/technic_armor.git
-[submodule "technicmetrics"]
-	path = technicmetrics
-	url = https://github.com/thomasrudin-mt/technicmetrics.git
 [submodule "telemosaic"]
 	path = telemosaic
 	url = https://github.com/pandorabox-io/telemosaic.git
