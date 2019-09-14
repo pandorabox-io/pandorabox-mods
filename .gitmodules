@@ -450,3 +450,6 @@
 [submodule "redwood"]
 	path = redwood
 	url = https://github.com/thomasrudin-mt/redwood.git
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://gitlab.com/VanessaE/basic_signs.git
