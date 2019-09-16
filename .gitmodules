@@ -450,3 +450,6 @@
 [submodule "redwood"]
 	path = redwood
 	url = https://github.com/thomasrudin-mt/redwood.git
+[submodule "mesecons_ratelimiter"]
+	path = mesecons_ratelimiter
+	url = https://github.com/thomasrudin-mt/mesecons_ratelimiter
