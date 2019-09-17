@@ -94,7 +94,7 @@
 	url = https://github.com/minetest-mods/digilines.git
 [submodule "digistuff"]
 	path = digistuff
-	url = https://cheapiesystems.com/git/digistuff
+	url = https://github.com/pandorabox-io/digistuff.git
 [submodule "digiterms"]
 	path = digiterms
 	url = https://github.com/pyrollo/digiterms.git
