@@ -453,3 +453,6 @@
 [submodule "mesecons_ratelimiter"]
 	path = mesecons_ratelimiter
 	url = https://github.com/thomasrudin-mt/mesecons_ratelimiter
+[submodule "playerfactions"]
+	path = playerfactions
+	url = https://git.leagueh.xyz/aldenp/playerfactions
