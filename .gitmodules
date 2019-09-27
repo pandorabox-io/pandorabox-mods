@@ -453,3 +453,6 @@
 [submodule "playerfactions"]
 	path = playerfactions
 	url = https://git.leagueh.xyz/aldenp/playerfactions
+[submodule "advtrains"]
+	path = advtrains
+	url = https://git.rudin.io/mirror/advtrains.git
