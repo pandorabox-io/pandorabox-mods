@@ -456,3 +456,6 @@
 [submodule "advtrains"]
 	path = advtrains
 	url = https://git.rudin.io/mirror/advtrains.git
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://gitlab.com/VanessaE/basic_signs.git
