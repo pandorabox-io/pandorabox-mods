@@ -4,9 +4,6 @@
 [submodule "adv_keys"]
 	path = adv_keys
 	url = https://github.com/Lejo1/adv_keys.git
-[submodule "advtrains"]
-	path = advtrains
-	url = https://github.com/pandorabox-io/advtrains.git
 [submodule "advtrains_platform"]
 	path = advtrains_platform
 	url = https://github.com/pandorabox-io/advtrains_platform.git
