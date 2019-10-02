@@ -4,9 +4,6 @@
 [submodule "adv_keys"]
 	path = adv_keys
 	url = https://github.com/Lejo1/adv_keys.git
-[submodule "advtrains"]
-	path = advtrains
-	url = https://github.com/pandorabox-io/advtrains.git
 [submodule "advtrains_platform"]
 	path = advtrains_platform
 	url = https://github.com/pandorabox-io/advtrains_platform.git
@@ -456,3 +453,12 @@
 [submodule "playerfactions"]
 	path = playerfactions
 	url = https://git.leagueh.xyz/aldenp/playerfactions
+[submodule "advtrains"]
+	path = advtrains
+	url = https://git.rudin.io/mirror/advtrains.git
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://gitlab.com/VanessaE/basic_signs.git
+[submodule "illumination"]
+	path = illumination
+	url = https://notabug.org/Piezo_/minetest-illumination
