@@ -440,7 +440,8 @@
 	url = https://github.com/thomasrudin-mt/shell.git
 [submodule "poshud"]
 	path = poshud
-	url = https://github.com/orwell96/poshud.git
+	url = https://github.com/SwissalpS/poshud.git
+	branch = light
 [submodule "bamboo"]
 	path = bamboo
 	url = https://github.com/pandorabox-io/bamboo
