@@ -278,8 +278,8 @@
 	url = https://github.com/everamzah/pvp_areas.git
 [submodule "replacer"]
 	path = replacer
-	url = https://github.com/coil0/replacer.git
-	branch = vacuum
+	url = https://github.com/pandorabox-io/replacer.git
+	branch = pandorabox
 [submodule "ropes"]
 	path = ropes
 	url = https://github.com/minetest-mods/ropes.git
