@@ -438,9 +438,6 @@
 [submodule "shell"]
 	path = shell
 	url = https://github.com/thomasrudin-mt/shell.git
-[submodule "poshud"]
-	path = poshud
-	url = https://github.com/SwissalpS/poshud.git
 	branch = light
 [submodule "bamboo"]
 	path = bamboo
@@ -466,3 +463,6 @@
 [submodule "globalstep_throttle"]
 	path = globalstep_throttle
 	url = https://github.com/thomasrudin-mt/globalstep_throttle
+[submodule "postool"]
+	path = postool
+	url = https://github.com/SwissalpS/postool.git
