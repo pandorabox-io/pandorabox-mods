@@ -438,7 +438,6 @@
 [submodule "shell"]
 	path = shell
 	url = https://github.com/thomasrudin-mt/shell.git
-	branch = light
 [submodule "bamboo"]
 	path = bamboo
 	url = https://github.com/pandorabox-io/bamboo
