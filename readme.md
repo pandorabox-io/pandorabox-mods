@@ -8,18 +8,25 @@ Pandorabox mod repo
 
 
 After cloning:
-```
+```bash
 git submodule init
 git submodule update
 ```
 
 ## Updating
 
-```
+```bash
+# sync repo urls
 git submodule sync
+# initialize new repos
 git submodule init
+# update commits
 git submodule update
+# remove unversioned files
+git clean -dff
 ```
+
+Or use the `update.sh` script in the root path
 
 ## Advisable settings
 
@@ -39,3 +46,20 @@ bridger_enable_trusses = true
 # enable telemosaic rightclick teleport
 telemosaic_right_click_teleport = true
 ```
+
+## Optional mods
+
+The following mods can be safely deleted in singleplayer:
+
+```
+monitoring
+mesecons_debug
+mail
+mapserver
+geoip
+```
+
+## Testing
+
+The mod collection can be tested with the `test.sh` script.
+prerequisite is a working docker setup
