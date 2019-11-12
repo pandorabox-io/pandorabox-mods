@@ -471,3 +471,6 @@
 [submodule "slats"]
 	path = slats
 	url = https://github.com/v-rob/slats
+[submodule "glass_stained"]
+	path = glass_stained
+	url = https://github.com/v-rob/glass_stained.git
