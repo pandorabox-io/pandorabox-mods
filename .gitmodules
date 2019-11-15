@@ -162,7 +162,6 @@
 [submodule "jumpdrive"]
 	path = jumpdrive
 	url = https://github.com/thomasrudin-mt/jumpdrive.git
-	branch = pipeworks-tp-redef
 [submodule "jumping"]
 	path = jumping
 	url = https://github.com/minetest-mods/jumping.git
