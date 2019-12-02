@@ -230,7 +230,7 @@
 	url = https://github.com/pandorabox-io/moderator_armor.git
 [submodule "monitoring"]
 	path = monitoring
-	url = https://github.com/thomasrudin-mt/monitoring.git
+	url = https://github.com/minetest-monitoring/monitoring.git
 [submodule "moreblocks"]
 	path = moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
