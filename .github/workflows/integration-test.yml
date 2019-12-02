@@ -1,0 +1,14 @@
+name: integration-test
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: test
+      run: ./test.sh
