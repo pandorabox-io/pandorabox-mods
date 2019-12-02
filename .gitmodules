@@ -471,3 +471,6 @@
 [submodule "glass_stained"]
 	path = glass_stained
 	url = https://github.com/v-rob/glass_stained.git
+[submodule "mail_mod"]
+	path = mail_mod
+	url = https://github.com/minetest-mail/mail_mod.git
