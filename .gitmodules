@@ -454,7 +454,7 @@
 	url = https://gitlab.com/VanessaE/basic_signs.git
 [submodule "illumination"]
 	path = illumination
-	url = https://notabug.org/Piezo_/minetest-illumination
+	url = https://github.com/pandorabox-io/illumination
 [submodule "globalstep_throttle"]
 	path = globalstep_throttle
 	url = https://github.com/thomasrudin-mt/globalstep_throttle
