@@ -1,6 +1,6 @@
 # Pandorabox mods
 
-[![Build Status](https://travis-ci.com/pandorabox-io/pandorabox-mods.svg?branch=master)](https://travis-ci.com/pandorabox-io/pandorabox-mods)
+![](https://github.com/pandorabox-io/pandorabox-mods/workflows/integration-test/badge.svg)
 
 Pandorabox mod repo
 
