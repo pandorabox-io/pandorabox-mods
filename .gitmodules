@@ -183,9 +183,6 @@
 [submodule "loot"]
 	path = loot
 	url = https://github.com/minetest-mods/loot.git
-[submodule "mail"]
-	path = mail
-	url = https://github.com/thomasrudin-mt/mail.git
 [submodule "mapserver"]
 	path = mapserver
 	url = https://github.com/minetest-tools/mapserver_mod.git
