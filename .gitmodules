@@ -185,7 +185,7 @@
 	url = https://github.com/minetest-mods/loot.git
 [submodule "mapserver"]
 	path = mapserver
-	url = https://github.com/minetest-tools/mapserver_mod.git
+	url = https://github.com/minetest-mapserver/mapserver_mod.git
 [submodule "maptools"]
 	path = maptools
 	url = https://github.com/minetest-mods/maptools.git
