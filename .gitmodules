@@ -474,3 +474,6 @@
 [submodule "mail_mod"]
 	path = mail_mod
 	url = https://github.com/minetest-mail/mail_mod.git
+[submodule "falling_item"]
+	path = falling_item
+	url = https://notabug.org/TenPlus1/falling_item
