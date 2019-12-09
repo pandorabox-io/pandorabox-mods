@@ -445,7 +445,7 @@
 	url = https://github.com/thomasrudin-mt/mesecons_ratelimiter
 [submodule "playerfactions"]
 	path = playerfactions
-	url = https://git.leagueh.xyz/aldenp/playerfactions
+	url = https://github.com/mt-mods/playerfactions.git
 [submodule "advtrains"]
 	path = advtrains
 	url = https://git.rudin.io/mirror/advtrains.git
