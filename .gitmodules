@@ -421,7 +421,7 @@
 	branch = nil-check
 [submodule "prefab"]
 	path = prefab
-	url = http://github.com/minetest-mods/prefab.git
+	url = https://github.com/mt-mods/prefab.git
 [submodule "player_monoids"]
 	path = player_monoids
 	url = https://github.com/minetest-mods/player_monoids.git
