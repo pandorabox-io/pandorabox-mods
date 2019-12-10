@@ -384,7 +384,6 @@
 [submodule "fancy_vend"]
 	path = fancy_vend
 	url = https://github.com/pandorabox-io/fancy_vend.git
-	branch = pandorabox
 [submodule "basic_materials"]
 	path = basic_materials
 	url = https://gitlab.com/VanessaE/basic_materials.git
