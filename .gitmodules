@@ -109,7 +109,7 @@
 	url = https://repo.or.cz/minetest_easyvend.git
 [submodule "ehlphabet"]
 	path = ehlphabet
-	url = https://github.com/mt-mods/ehlphabet.git
+	url = https://git.rudin.io/mirror/ehlphabet.git
 [submodule "elevator"]
 	path = elevator
 	url = https://github.com/shacknetisp/elevator.git
