@@ -476,6 +476,9 @@
 [submodule "falling_item"]
 	path = falling_item
 	url = https://notabug.org/TenPlus1/falling_item
+[submodule "christmas"]
+	path = christmas
+	url = https://github.com/mt-mods/christmas.git
 [submodule "powerbanks"]
 	path = powerbanks
 	url = https://github.com/OgelGames/powerbanks
