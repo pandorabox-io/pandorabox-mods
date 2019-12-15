@@ -479,3 +479,6 @@
 [submodule "christmas"]
 	path = christmas
 	url = https://github.com/mt-mods/christmas.git
+[submodule "powerbanks"]
+	path = powerbanks
+	url = https://github.com/OgelGames/powerbanks
