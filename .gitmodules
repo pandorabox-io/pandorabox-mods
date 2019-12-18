@@ -479,3 +479,6 @@
 [submodule ".partial_mods/cool_trees"]
 	path = .partial_mods/cool_trees
 	url = https://github.com/runsy/cool_trees.git
+[submodule "mypaths"]
+	path = mypaths
+	url = https://github.com/minetest-mods/mypaths
