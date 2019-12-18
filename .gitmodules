@@ -427,15 +427,9 @@
 [submodule "armor_monoid"]
 	path = armor_monoid
 	url = https://github.com/minetest-mods/armor_monoid.git
-[submodule "cherrytree"]
-	path = cherrytree
-	url = https://github.com/pandorabox-io/cherrytree.git
 [submodule "shell"]
 	path = shell
 	url = https://github.com/thomasrudin-mt/shell.git
-[submodule "bamboo"]
-	path = bamboo
-	url = https://github.com/pandorabox-io/bamboo
 [submodule "redwood"]
 	path = redwood
 	url = https://github.com/thomasrudin-mt/redwood.git
@@ -482,3 +476,6 @@
 [submodule "powerbanks"]
 	path = powerbanks
 	url = https://github.com/OgelGames/powerbanks
+[submodule ".partial_mods/cool_trees"]
+	path = .partial_mods/cool_trees
+	url = https://github.com/runsy/cool_trees.git
