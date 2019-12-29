@@ -345,7 +345,7 @@
 	url = https://notabug.org/TenPlus1/toolranks.git
 [submodule "travelnet"]
 	path = travelnet
-	url = https://github.com/Sokomine/travelnet.git
+	url = https://github.com/mt-mods/travelnet.git
 [submodule "unified_inventory"]
 	path = unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory.git
