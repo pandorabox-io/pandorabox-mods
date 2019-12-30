@@ -342,7 +342,7 @@
 	url = https://github.com/minetest-mods/throwing_arrows.git
 [submodule "toolranks"]
 	path = toolranks
-	url = https://notabug.org/TenPlus1/toolranks.git
+	url = https://github.com/OgelGames/minetest-toolranks.git
 [submodule "travelnet"]
 	path = travelnet
 	url = https://github.com/mt-mods/travelnet.git
