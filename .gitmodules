@@ -100,8 +100,7 @@
 	url = https://github.com/pandorabox-io/digtron.git
 [submodule "display_modpack"]
 	path = display_modpack
-	url = https://github.com/coil0/display_modpack.git
-	branch = pandorabox
+	url = https://github.com/pyrollo/display_modpack.git
 [submodule "drawers"]
 	path = drawers
 	url = https://github.com/minetest-mods/drawers.git
