@@ -341,7 +341,7 @@
 	url = https://github.com/minetest-mods/throwing_arrows.git
 [submodule "toolranks"]
 	path = toolranks
-	url = https://github.com/OgelGames/minetest-toolranks.git
+	url = https://github.com/lisacvuk/minetest-toolranks.git
 [submodule "travelnet"]
 	path = travelnet
 	url = https://github.com/mt-mods/travelnet.git
