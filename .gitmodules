@@ -488,3 +488,6 @@
 [submodule "server_cloak"]
 	path = server_cloak
 	url = https://github.com/pandorabox-io/server_cloak
+[submodule "radioactive_gas"]
+	path = radioactive_gas
+	url = https://github.com/pandorabox-io/radioactive_gas.git
