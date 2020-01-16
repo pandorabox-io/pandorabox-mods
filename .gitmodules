@@ -323,7 +323,6 @@
 [submodule "technic"]
 	path = technic
 	url = https://github.com/pandorabox-io/technic.git
-	branch = pandorabox
 [submodule "technic_armor"]
 	path = technic_armor
 	url = https://github.com/stujones11/technic_armor.git
