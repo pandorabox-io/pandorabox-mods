@@ -37,9 +37,6 @@
 [submodule "beerchat"]
 	path = beerchat
 	url = https://github.com/pandorabox-io/beerchat.git
-[submodule "beerchat_web"]
-	path = beerchat_web
-	url = https://github.com/pandorabox-io/beerchat_web.git
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/h2mm/bike.git
