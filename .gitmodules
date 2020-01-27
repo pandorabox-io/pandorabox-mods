@@ -400,7 +400,7 @@
 	url = https://github.com/thomasrudin-mt/mesecons_debug.git
 [submodule "protector"]
 	path = protector
-	url = https://notabug.org/tenplus1/protector.git
+	url = https://github.com/S-S-X/protector.git
 [submodule "priv_protector"]
 	path = priv_protector
 	url = https://github.com/pandorabox-io/priv_protector.git
