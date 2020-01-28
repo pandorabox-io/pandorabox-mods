@@ -484,3 +484,6 @@
 [submodule "radioactive_gas"]
 	path = radioactive_gas
 	url = https://github.com/pandorabox-io/radioactive_gas.git
+[submodule "particlefountain"]
+	path = particlefountain
+	url = https://github.com/damocles-minetest/particlefountain.git
