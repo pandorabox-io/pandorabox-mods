@@ -487,3 +487,6 @@
 [submodule "particlefountain"]
 	path = particlefountain
 	url = https://github.com/damocles-minetest/particlefountain.git
+[submodule "mapcleaner"]
+	path = mapcleaner
+	url = https://github.com/thomasrudin-mt/mapcleaner.git
