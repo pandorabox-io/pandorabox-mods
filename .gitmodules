@@ -487,3 +487,6 @@
 [submodule "mapcleaner"]
 	path = mapcleaner
 	url = https://github.com/thomasrudin-mt/mapcleaner.git
+[submodule "spill_removal"]
+	path = spill_removal
+	url = https://github.com/pandorabox-io/spill_removal.git
