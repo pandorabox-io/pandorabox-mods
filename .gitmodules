@@ -165,9 +165,6 @@
 [submodule "lag_warning"]
 	path = lag_warning
 	url = https://github.com/pandorabox-io/lag_warning.git
-[submodule "lavastone"]
-	path = lavastone
-	url = https://github.com/pandorabox-io/lavastone.git
 [submodule "lavastuff"]
 	path = lavastuff
 	url = https://github.com/LoneWolfHT/lavastuff.git
