@@ -165,9 +165,6 @@
 [submodule "lag_warning"]
 	path = lag_warning
 	url = https://github.com/pandorabox-io/lag_warning.git
-[submodule "lavastone"]
-	path = lavastone
-	url = https://github.com/pandorabox-io/lavastone.git
 [submodule "lavastuff"]
 	path = lavastuff
 	url = https://github.com/LoneWolfHT/lavastuff.git
@@ -490,3 +487,6 @@
 [submodule "mapcleaner"]
 	path = mapcleaner
 	url = https://github.com/thomasrudin-mt/mapcleaner.git
+[submodule "spill_removal"]
+	path = spill_removal
+	url = https://github.com/pandorabox-io/spill_removal.git
