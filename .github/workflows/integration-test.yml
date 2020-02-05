@@ -9,7 +9,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - uses: textbook/git-checkout-submodule-action@master
+    - uses: textbook/git-checkout-submodule-action@2.0.0
 
     - name: test
       run: ./test.sh
