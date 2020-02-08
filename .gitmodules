@@ -487,3 +487,6 @@
 [submodule "spill_removal"]
 	path = spill_removal
 	url = https://github.com/pandorabox-io/spill_removal.git
+[submodule "afkkick"]
+	path = afkkick
+	url = https://github.com/pandorabox-io/afkkick.git
