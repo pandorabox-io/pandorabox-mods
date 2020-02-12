@@ -490,3 +490,6 @@
 [submodule "afkkick"]
 	path = afkkick
 	url = https://github.com/pandorabox-io/afkkick.git
+[submodule "new_glass"]
+	path = new_glass
+	url = git@github.com:6r1d/minetest_new_glass.git
