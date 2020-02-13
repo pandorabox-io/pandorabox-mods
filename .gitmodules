@@ -142,7 +142,7 @@
 	url = https://github.com/pandorabox-io/gravity_manager.git
 [submodule "hangglider"]
 	path = hangglider
-	url = https://notabug.org/Piezo_/minetest-hangglider.git
+	url = https://github.com/mt-mods/hangglider.git
 [submodule "hazmat_suit"]
 	path = hazmat_suit
 	url = https://github.com/pandorabox-io/hazmat_suit.git
