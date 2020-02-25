@@ -94,7 +94,7 @@
 	url = https://github.com/pyrollo/digiterms.git
 [submodule "digtron"]
 	path = digtron
-	url = https://github.com/S-S-X/digtron.git
+	url = https://github.com/minetest-mods/digtron.git
 [submodule "display_modpack"]
 	path = display_modpack
 	url = https://github.com/pyrollo/display_modpack.git
