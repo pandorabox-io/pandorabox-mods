@@ -95,7 +95,6 @@
 [submodule "digtron"]
 	path = digtron
 	url = https://github.com/S-S-X/digtron.git
-	branch = invalid-punch-fix
 [submodule "display_modpack"]
 	path = display_modpack
 	url = https://github.com/pyrollo/display_modpack.git
