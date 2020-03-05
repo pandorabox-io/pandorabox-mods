@@ -88,7 +88,7 @@
 	url = https://github.com/minetest-mods/digilines.git
 [submodule "digistuff"]
 	path = digistuff
-	url = https://git.rudin.io/mirror/digistuff.git
+	url = https://github.com/minetest-mirrors/digistuff.git
 [submodule "digiterms"]
 	path = digiterms
 	url = https://github.com/pyrollo/digiterms.git
@@ -428,7 +428,7 @@
 	url = https://github.com/mt-mods/playerfactions.git
 [submodule "advtrains"]
 	path = advtrains
-	url = https://git.rudin.io/mirror/advtrains.git
+	url = https://github.com/minetest-mirrors/advtrains.git
 [submodule "basic_signs"]
 	path = basic_signs
 	url = https://gitlab.com/VanessaE/basic_signs.git
