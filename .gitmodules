@@ -104,7 +104,7 @@
 	url = https://github.com/minetest-mods/drawers.git
 [submodule "easyvend"]
 	path = easyvend
-	url = https://github.com/mt-mods/easyvend.git
+	url = https://github.com/minetest-mirrors/easyvend.git
 [submodule "ehlphabet"]
 	path = ehlphabet
 	url = https://git.rudin.io/mirror/ehlphabet.git
