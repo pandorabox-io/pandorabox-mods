@@ -107,7 +107,7 @@
 	url = https://github.com/minetest-mirrors/easyvend.git
 [submodule "ehlphabet"]
 	path = ehlphabet
-	url = https://git.rudin.io/mirror/ehlphabet.git
+	url = https://github.com/minetest-mirrors/ehlphabet.git
 [submodule "elevator"]
 	path = elevator
 	url = https://github.com/shacknetisp/elevator.git
