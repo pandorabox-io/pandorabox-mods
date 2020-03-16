@@ -6,7 +6,7 @@
 	url = https://github.com/Lejo1/adv_keys.git
 [submodule "advtrains_platform"]
 	path = advtrains_platform
-	url = https://github.com/pandorabox-io/advtrains_platform.git
+	url = https://github.com/minetest-mirrors/advtrains_platform.git
 [submodule "advtrains_railbus"]
 	path = advtrains_railbus
 	url = https://github.com/mbblp/advtrains_railbus.git
