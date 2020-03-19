@@ -436,9 +436,6 @@
 [submodule "illumination"]
 	path = illumination
 	url = https://github.com/pandorabox-io/illumination
-[submodule "globalstep_throttle"]
-	path = globalstep_throttle
-	url = https://github.com/thomasrudin-mt/globalstep_throttle
 [submodule "postool"]
 	path = postool
 	url = https://github.com/SwissalpS/postool.git
