@@ -246,7 +246,7 @@
 	url = https://github.com/pandorabox-io/pandorabox_custom.git
 [submodule "pipeworks"]
 	path = pipeworks
-	url = https://gitlab.com/VanessaE/pipeworks.git
+	url = https://gitlab.com/OgelGames/pipeworks.git
 [submodule "planet_mars"]
 	path = planet_mars
 	url = https://github.com/pandorabox-io/planet_mars.git
