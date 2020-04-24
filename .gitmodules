@@ -485,6 +485,3 @@
 [submodule "new_glass"]
 	path = new_glass
 	url = https://github.com/6r1d/minetest_new_glass.git
-[submodule "server_news"]
-	path = server_news
-	url = https://github.com/pandorabox-io/server_news
