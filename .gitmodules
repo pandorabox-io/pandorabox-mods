@@ -488,3 +488,6 @@
 [submodule "server_news"]
 	path = server_news
 	url = https://github.com/pandorabox-io/server_news
+[submodule "digiline_global_memory"]
+	path = digiline_global_memory
+	url = https://github.com/BuckarooBanzay/digiline_global_memory
