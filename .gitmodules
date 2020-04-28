@@ -77,7 +77,7 @@
 	branch = pandorabox
 [submodule "controls"]
 	path = controls
-	url = https://github.com/Arcelmi/minetest-controls.git
+	url = https://github.com/mt-mods/controls.git
 [submodule "currency"]
 	path = currency
 	url = https://gitlab.com/VanessaE/currency.git
