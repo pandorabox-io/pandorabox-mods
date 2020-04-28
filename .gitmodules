@@ -119,7 +119,7 @@
 	url = https://github.com/pandorabox-io/factory_bridges.git
 [submodule "farming"]
 	path = farming
-	url = https://notabug.org/TenPlus1/farming.git
+	url = https://github.com/minetest-mirrors/farming.git
 [submodule "farming_nextgen"]
 	path = farming_nextgen
 	url = https://github.com/berengma/farming_nextgen.git
@@ -356,7 +356,7 @@
 	url = https://github.com/pandorabox-io/warzone.git
 [submodule "wine"]
 	path = wine
-	url = https://notabug.org/TenPlus1/wine.git
+	url = https://github.com/minetest-mirrors/wine.git
 [submodule "WorldEdit"]
 	path = WorldEdit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
