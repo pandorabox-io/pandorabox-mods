@@ -491,3 +491,6 @@
 [submodule "digiline_global_memory"]
 	path = digiline_global_memory
 	url = https://github.com/BuckarooBanzay/digiline_global_memory
+[submodule "tubetool"]
+	path = tubetool
+	url = https://github.com/S-S-X/tubetool.git
