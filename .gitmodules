@@ -42,8 +42,7 @@
 	url = https://gitlab.com/h2mm/bike.git
 [submodule "biofuel"]
 	path = biofuel
-	url = https://github.com/pandorabox-io/Biofuel.git
-	branch = pandorabox
+	url = https://github.com/Lokrates/Biofuel.git
 [submodule "biome_lib"]
 	path = biome_lib
 	url = https://gitlab.com/VanessaE/biome_lib.git
