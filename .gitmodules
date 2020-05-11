@@ -493,3 +493,6 @@
 [submodule "tubetool"]
 	path = tubetool
 	url = https://github.com/S-S-X/tubetool.git
+[submodule "digtron_customizations"]
+	path = digtron_customizations
+	url = https://github.com/BuckarooBanzay/digtron_customizations
