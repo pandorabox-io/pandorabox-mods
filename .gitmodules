@@ -182,7 +182,7 @@
 	url = https://github.com/minetest-mods/maptools.git
 [submodule "mesecons"]
 	path = mesecons
-	url = https://github.com/minetest-mods/mesecons.git
+	url = https://github.com/S-S-X/mesecons.git
 [submodule "mesecons_stealthnode"]
 	path = mesecons_stealthnode
 	url = https://github.com/acmgit/mesecons_stealthnode.git
