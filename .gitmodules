@@ -146,7 +146,6 @@
 [submodule "hazmat_suit"]
 	path = hazmat_suit
 	url = https://github.com/pandorabox-io/hazmat_suit.git
-	branch = pandorabox
 [submodule "homedecor_modpack"]
 	path = homedecor_modpack
 	url = https://gitlab.com/VanessaE/homedecor_modpack.git
