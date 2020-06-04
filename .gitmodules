@@ -277,8 +277,7 @@
 	url = https://gitlab.com/VanessaE/signs_lib.git
 [submodule "skinsdb"]
 	path = skinsdb
-	url = https://github.com/pandorabox-io/skinsdb.git
-	branch = pandorabox
+	url = https://github.com/minetest-mods/skinsdb.git
 [submodule "skybox"]
 	path = skybox
 	url = https://github.com/pandorabox-io/skybox.git
