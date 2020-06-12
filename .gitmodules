@@ -499,3 +499,6 @@
 	path = digiline_routing
 	url = https://github.com/Lejo1/digiline_routing.git
 	branch = protect_drop
+[submodule "protection_memoize"]
+	path = protection_memoize
+	url = https://github.com/BuckarooBanzay/protection_memoize.git
