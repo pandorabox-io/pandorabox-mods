@@ -15,7 +15,7 @@
 	url = https://github.com/pandorabox-io/advtrains_subway_colored.git
 [submodule "ambience"]
 	path = ambience
-	url = https://notabug.org/TenPlus1/ambience.git
+	url = https://github.com/minetest-mirrors/ambience.git
 [submodule "anvil"]
 	path = anvil
 	url = https://github.com/minetest-mods/anvil.git
@@ -24,7 +24,7 @@
 	url = https://github.com/minetest-mods/areas.git
 [submodule "bakedclay"]
 	path = bakedclay
-	url = https://notabug.org/TenPlus1/bakedclay.git
+	url = https://github.com/minetest-mirrors/bakedclay.git
 [submodule "banners"]
 	path = banners
 	url = https://github.com/pandorabox-io/banners.git
