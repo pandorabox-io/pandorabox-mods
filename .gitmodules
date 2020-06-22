@@ -501,3 +501,6 @@
 	path = digiline_routing
 	url = https://github.com/Lejo1/digiline_routing.git
 	branch = protect_drop
+[submodule "find_nodes_in_area_cache"]
+	path = find_nodes_in_area_cache
+	url = https://github.com/BuckarooBanzay/find_nodes_in_area_cache.git
