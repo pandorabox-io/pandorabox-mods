@@ -335,7 +335,7 @@
 	url = https://github.com/minetest-mods/unified_inventory.git
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
-	url = https://github.com/bousket/unified_inventory_plus.git
+	url = https://github.com/pandorabox-io/unified_inventory_plus.git
 [submodule "unifiedbricks"]
 	path = unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks.git
