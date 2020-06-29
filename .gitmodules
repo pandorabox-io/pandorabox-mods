@@ -504,3 +504,27 @@
 [submodule "find_nodes_in_area_cache"]
 	path = find_nodes_in_area_cache
 	url = https://github.com/BuckarooBanzay/find_nodes_in_area_cache.git
+[submodule "monitoring_technic"]
+	path = monitoring_technic
+	url = https://github.com/minetest-monitoring/monitoring_technic.git
+[submodule "monitoring_replacer"]
+	path = monitoring_replacer
+	url = https://github.com/minetest-monitoring/monitoring_replacer.git
+[submodule "monitoring_protection"]
+	path = monitoring_protection
+	url = https://github.com/minetest-monitoring/monitoring_protection.git
+[submodule "monitoring_pipeworks"]
+	path = monitoring_pipeworks
+	url = https://github.com/minetest-monitoring/monitoring_pipeworks.git
+[submodule "monitoring_mesecons"]
+	path = monitoring_mesecons
+	url = https://github.com/minetest-monitoring/monitoring_mesecons.git
+[submodule "monitoring_digtron"]
+	path = monitoring_digtron
+	url = https://github.com/minetest-monitoring/monitoring_digtron.git
+[submodule "monitoring_digilines"]
+	path = monitoring_digilines
+	url = https://github.com/minetest-monitoring/monitoring_digilines.git
+[submodule "monitoring_advtrains"]
+	path = monitoring_advtrains
+	url = https://github.com/minetest-monitoring/monitoring_advtrains.git
