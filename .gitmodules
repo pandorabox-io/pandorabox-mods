@@ -157,7 +157,7 @@
 	url = https://github.com/minetest-mods/inspector.git
 [submodule "jumpdrive"]
 	path = jumpdrive
-	url = https://github.com/thomasrudin-mt/jumpdrive.git
+	url = https://github.com/mt-mods/jumpdrive.git
 [submodule "jumping"]
 	path = jumping
 	url = https://github.com/minetest-mods/jumping.git
@@ -193,7 +193,7 @@
 	url = https://github.com/pandorabox-io/mesecons_protected_switch.git
 [submodule "missions"]
 	path = missions
-	url = https://github.com/thomasrudin-mt/missions.git
+	url = https://github.com/BuckarooBanzay/missions.git
 [submodule "mob_horse"]
 	path = mob_horse
 	url = https://notabug.org/TenPlus1/mob_horse.git
@@ -290,16 +290,16 @@
 	branch = pandorabox
 [submodule "soundblock"]
 	path = soundblock
-	url = https://github.com/thomasrudin-mt/soundblock.git
+	url = https://github.com/mt-mods/soundblock.git
 [submodule "soundblock_scifi"]
 	path = soundblock_scifi
-	url = https://github.com/thomasrudin-mt/soundblock_scifi.git
+	url = https://github.com/mt-mods/soundblock_scifi.git
 [submodule "spacecannon"]
 	path = spacecannon
 	url = https://github.com/pandorabox-io/spacecannon.git
 [submodule "spacesuit"]
 	path = spacesuit
-	url = https://github.com/thomasrudin-mt/spacesuit.git
+	url = https://github.com/mt-mods/spacesuit.git
 [submodule "stained_glass"]
 	path = stained_glass
 	url = https://github.com/andersje/stained_glass.git
@@ -314,7 +314,7 @@
 	url = https://github.com/stujones11/technic_armor.git
 [submodule "telemosaic"]
 	path = telemosaic
-	url = https://github.com/pandorabox-io/telemosaic.git
+	url = https://github.com/mt-mods/telemosaic.git
 [submodule "textline"]
 	path = textline
 	url = https://github.com/gbl08ma/textline.git
@@ -344,7 +344,7 @@
 	url = https://gitlab.com/VanessaE/unifieddyes.git
 [submodule "vacuum"]
 	path = vacuum
-	url = https://github.com/thomasrudin-mt/vacuum.git
+	url = https://github.com/mt-mods/vacuum.git
 [submodule "vines"]
 	path = vines
 	url = https://github.com/bas080/vines.git
@@ -362,7 +362,7 @@
 	url = https://github.com/minetest-mods/xban2.git
 [submodule "xp_redo"]
 	path = xp_redo
-	url = https://github.com/thomasrudin-mt/xp_redo.git
+	url = https://github.com/mt-mods/xp_redo.git
 [submodule "xp_redo_ranks_ores"]
 	path = xp_redo_ranks_ores
 	url = https://github.com/mt-mods/xp_redo_ranks_ores.git
@@ -380,7 +380,7 @@
 	url = https://github.com/minetest-mirrors/hidden_doors.git
 [submodule "auth_proxy_mod"]
 	path = auth_proxy_mod
-	url = https://github.com/thomasrudin-mt/auth_proxy_mod
+	url = https://github.com/minetest-auth-proxy/auth_proxy_mod
 [submodule "stairs"]
 	path = stairs
 	url = https://github.com/pandorabox-io/stairs.git
@@ -389,7 +389,7 @@
 	url = https://github.com/6r1d/atm.git
 [submodule "mesecons_debug"]
 	path = mesecons_debug
-	url = https://github.com/thomasrudin-mt/mesecons_debug.git
+	url = https://github.com/minetest-monitoring/mesecons_debug.git
 [submodule "protector"]
 	path = protector
 	url = https://github.com/mt-mods/protector.git
@@ -401,7 +401,7 @@
 	url = https://github.com/pandorabox-io/locator.git
 [submodule "woodcutting"]
 	path = woodcutting
-	url = https://github.com/thomasrudin-mt/woodcutting
+	url = https://github.com/BuckarooBanzay/woodcutting
 	branch = nil-check
 [submodule "prefab"]
 	path = prefab
@@ -414,13 +414,13 @@
 	url = https://github.com/minetest-mods/armor_monoid.git
 [submodule "shell"]
 	path = shell
-	url = https://github.com/thomasrudin-mt/shell.git
+	url = https://github.com/mt-mods/shell.git
 [submodule "redwood"]
 	path = redwood
-	url = https://github.com/thomasrudin-mt/redwood.git
+	url = https://github.com/mt-mods/redwood.git
 [submodule "mesecons_ratelimiter"]
 	path = mesecons_ratelimiter
-	url = https://github.com/thomasrudin-mt/mesecons_ratelimiter
+	url = https://github.com/minetest-monitoring/mesecons_ratelimiter
 [submodule "playerfactions"]
 	path = playerfactions
 	url = https://github.com/minetest-mirrors/playerfactions.git
@@ -436,7 +436,7 @@
 [submodule "postool"]
 	path = postool
 	url = https://github.com/SwissalpS/postool.git
-	
+
 [submodule "pkarcs"]
 	path = pkarcs
 	url = https://github.com/TumeniNodes/pkarcs.git
@@ -472,7 +472,7 @@
 	url = https://github.com/damocles-minetest/particlefountain.git
 [submodule "mapcleaner"]
 	path = mapcleaner
-	url = https://github.com/thomasrudin-mt/mapcleaner.git
+	url = https://github.com/BuckarooBanzay/mapcleaner.git
 [submodule "spill_removal"]
 	path = spill_removal
 	url = https://github.com/pandorabox-io/spill_removal.git
