@@ -499,8 +499,7 @@
 	url = https://github.com/S-S-X/metatool.git
 [submodule "digiline_routing"]
 	path = digiline_routing
-	url = https://github.com/Lejo1/digiline_routing.git
-	branch = protect_drop
+	url = https://github.com/numberZero/digiline_routing
 [submodule "find_nodes_in_area_cache"]
 	path = find_nodes_in_area_cache
 	url = https://github.com/BuckarooBanzay/find_nodes_in_area_cache.git
