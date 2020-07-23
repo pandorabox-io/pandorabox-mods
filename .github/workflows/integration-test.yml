@@ -19,7 +19,7 @@ jobs:
         DISCORD_WEBHOOK: ${{ secrets.discord_webhook }}
       uses: Ilshidur/action-discord@master
       with:
-        args: '☑️ Integration test passed for branch ${{ GITHUB_REF }}'
+        args: '☑️ Integration test passed for branch ${{ github.ref }}'
 
     - name: 📧 Discord failure notification
       if: failure()
@@ -27,4 +27,4 @@ jobs:
         DISCORD_WEBHOOK: ${{ secrets.discord_webhook }}
       uses: Ilshidur/action-discord@master
       with:
-        args: '🚫 Integration test failed for branch ${{ GITHUB_REF }}'
+        args: '🚫 Integration test failed for branch ${{ github.ref }}'
