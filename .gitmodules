@@ -200,7 +200,6 @@
 [submodule "mobs"]
 	path = mobs
 	url = https://github.com/minetest-mirrors/mobs_redo.git
-	branch = attack-nil-fix
 [submodule "mobs_animal"]
 	path = mobs_animal
 	url = https://notabug.org/TenPlus1/mobs_animal.git
