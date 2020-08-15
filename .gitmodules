@@ -528,3 +528,6 @@
 [submodule "pipeworks_item_expiration"]
 	path = pipeworks_item_expiration
 	url = https://github.com/BuckarooBanzay/pipeworks_item_expiration.git
+[submodule "monitoring_drawers"]
+	path = monitoring_drawers
+	url = https://github.com/minetest-monitoring/monitoring_drawers.git
