@@ -312,7 +312,7 @@
 	url = https://github.com/mt-mods/technic.git
 [submodule "technic_armor"]
 	path = technic_armor
-	url = https://github.com/stujones11/technic_armor.git
+	url = https://github.com/mt-mods/technic_armor.git
 [submodule "telemosaic"]
 	path = telemosaic
 	url = https://github.com/mt-mods/telemosaic.git
