@@ -208,7 +208,7 @@
 	url = https://notabug.org/TenPlus1/mobs_monster.git
 [submodule "mobs_npc"]
 	path = mobs_npc
-	url = https://notabug.org/TenPlus1/mobs_npc.git
+	url = https://notabug.org/OgelGames/mobs_npc.git
 [submodule "mobs_water"]
 	path = mobs_water
 	url = https://notabug.org/TenPlus1/mobs_water.git
