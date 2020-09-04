@@ -531,3 +531,6 @@
 [submodule "monitoring_drawers"]
 	path = monitoring_drawers
 	url = https://github.com/minetest-monitoring/monitoring_drawers.git
+[submodule "set_player_privs_cache"]
+	path = set_player_privs_cache
+	url = https://github.com/BuckarooBanzay/set_player_privs_cache.git
