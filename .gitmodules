@@ -425,6 +425,7 @@
 [submodule "playerfactions"]
 	path = playerfactions
 	url = https://github.com/minetest-mirrors/playerfactions.git
+	branch = main
 [submodule "advtrains"]
 	path = advtrains
 	url = https://github.com/minetest-mirrors/advtrains.git
