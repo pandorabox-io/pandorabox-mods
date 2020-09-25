@@ -535,3 +535,6 @@
 [submodule "set_player_privs_cache"]
 	path = set_player_privs_cache
 	url = https://github.com/BuckarooBanzay/set_player_privs_cache.git
+[submodule "hotbar"]
+	path = hotbar
+	url = https://github.com/askotos/hotbar.git
