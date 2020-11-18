@@ -1,9 +1,18 @@
+[submodule ".partial_mods/cool_trees"]
+	path = .partial_mods/cool_trees
+	url = https://github.com/runsy/cool_trees.git
 [submodule "3d_armor"]
 	path = 3d_armor
 	url = https://github.com/mt-mods/3d_armor.git
 [submodule "adv_keys"]
 	path = adv_keys
 	url = https://github.com/Lejo1/adv_keys.git
+[submodule "advtrains"]
+	path = advtrains
+	url = https://github.com/minetest-mirrors/advtrains.git
+[submodule "advtrains_custom"]
+	path = advtrains_custom
+	url = https://github.com/pandorabox-io/advtrains_custom.git
 [submodule "advtrains_platform"]
 	path = advtrains_platform
 	url = https://github.com/minetest-mirrors/advtrains_platform.git
@@ -13,6 +22,9 @@
 [submodule "advtrains_subway_colored"]
 	path = advtrains_subway_colored
 	url = https://github.com/pandorabox-io/advtrains_subway_colored.git
+[submodule "afkkick"]
+	path = afkkick
+	url = https://github.com/pandorabox-io/afkkick.git
 [submodule "ambience"]
 	path = ambience
 	url = https://github.com/minetest-mirrors/ambience.git
@@ -22,12 +34,30 @@
 [submodule "areas"]
 	path = areas
 	url = https://github.com/minetest-mods/areas.git
+[submodule "armor_monoid"]
+	path = armor_monoid
+	url = https://github.com/minetest-mods/armor_monoid.git
+[submodule "atm"]
+	path = atm
+	url = https://github.com/6r1d/atm.git
+[submodule "auth_cache"]
+	path = auth_cache
+	url = https://github.com/minetest-monitoring/auth_cache.git
+[submodule "auth_proxy_mod"]
+	path = auth_proxy_mod
+	url = https://github.com/minetest-auth-proxy/auth_proxy_mod
 [submodule "bakedclay"]
 	path = bakedclay
 	url = https://github.com/minetest-mirrors/bakedclay.git
 [submodule "banners"]
 	path = banners
 	url = https://github.com/pandorabox-io/banners.git
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://gitlab.com/VanessaE/basic_materials.git
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://gitlab.com/VanessaE/basic_signs.git
 [submodule "beacon"]
 	path = beacon
 	url = https://github.com/OgelGames/beacon.git
@@ -74,6 +104,9 @@
 	path = charcoal
 	url = https://github.com/pandorabox-io/charcoal.git
 	branch = pandorabox
+[submodule "christmas"]
+	path = christmas
+	url = https://github.com/mt-mods/christmas.git
 [submodule "controls"]
 	path = controls
 	url = https://github.com/mt-mods/controls.git
@@ -83,6 +116,12 @@
 [submodule "datastorage"]
 	path = datastorage
 	url = https://github.com/minetest-technic/datastorage.git
+[submodule "digiline_global_memory"]
+	path = digiline_global_memory
+	url = https://github.com/BuckarooBanzay/digiline_global_memory
+[submodule "digiline_routing"]
+	path = digiline_routing
+	url = https://github.com/numberZero/digiline_routing
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines.git
@@ -95,6 +134,9 @@
 [submodule "digtron"]
 	path = digtron
 	url = https://github.com/minetest-mods/digtron.git
+[submodule "digtron_customizations"]
+	path = digtron_customizations
+	url = https://github.com/BuckarooBanzay/digtron_customizations
 [submodule "display_modpack"]
 	path = display_modpack
 	url = https://github.com/pyrollo/display_modpack.git
@@ -116,12 +158,21 @@
 [submodule "factory_bridges"]
 	path = factory_bridges
 	url = https://github.com/pandorabox-io/factory_bridges.git
+[submodule "falling_item"]
+	path = falling_item
+	url = https://notabug.org/TenPlus1/falling_item
+[submodule "fancy_vend"]
+	path = fancy_vend
+	url = https://github.com/pandorabox-io/fancy_vend.git
 [submodule "farming"]
 	path = farming
 	url = https://github.com/minetest-mirrors/farming.git
 [submodule "farming_nextgen"]
 	path = farming_nextgen
 	url = https://github.com/berengma/farming_nextgen.git
+[submodule "find_nodes_in_area_cache"]
+	path = find_nodes_in_area_cache
+	url = https://github.com/BuckarooBanzay/find_nodes_in_area_cache.git
 [submodule "font_botic"]
 	path = font_botic
 	url = https://github.com/pyrollo/font_botic.git
@@ -137,6 +188,9 @@
 [submodule "geoip"]
 	path = geoip
 	url = https://github.com/pandorabox-io/geoip.git
+[submodule "glass_stained"]
+	path = glass_stained
+	url = https://github.com/v-rob/glass_stained.git
 [submodule "gravity_manager"]
 	path = gravity_manager
 	url = https://github.com/pandorabox-io/gravity_manager.git
@@ -146,12 +200,18 @@
 [submodule "hazmat_suit"]
 	path = hazmat_suit
 	url = https://github.com/pandorabox-io/hazmat_suit.git
+[submodule "hidden_doors"]
+	path = hidden_doors
+	url = https://github.com/minetest-mirrors/hidden_doors.git
 [submodule "homedecor_modpack"]
 	path = homedecor_modpack
 	url = https://gitlab.com/VanessaE/homedecor_modpack.git
 [submodule "ilights"]
 	path = ilights
 	url = https://gitlab.com/VanessaE/ilights.git
+[submodule "illumination"]
+	path = illumination
+	url = https://github.com/pandorabox-io/illumination
 [submodule "inspector"]
 	path = inspector
 	url = https://github.com/minetest-mods/inspector.git
@@ -170,9 +230,15 @@
 [submodule "letters"]
 	path = letters
 	url = https://github.com/minetest-mods/letters.git
+[submodule "locator"]
+	path = locator
+	url = https://github.com/pandorabox-io/locator.git
 [submodule "loot"]
 	path = loot
 	url = https://github.com/minetest-mods/loot.git
+[submodule "mail_mod"]
+	path = mail_mod
+	url = https://github.com/minetest-mail/mail_mod.git
 [submodule "mapserver"]
 	path = mapserver
 	url = https://github.com/minetest-mapserver/mapserver_mod.git
@@ -182,6 +248,12 @@
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons.git
+[submodule "mesecons_debug"]
+	path = mesecons_debug
+	url = https://github.com/minetest-monitoring/mesecons_debug.git
+[submodule "mesecons_ratelimiter"]
+	path = mesecons_ratelimiter
+	url = https://github.com/minetest-monitoring/mesecons_ratelimiter
 [submodule "mesecons_stealthnode"]
 	path = mesecons_stealthnode
 	url = https://github.com/acmgit/mesecons_stealthnode.git
@@ -191,6 +263,9 @@
 [submodule "mesecons_protected_switch"]
 	path = mesecons_protected_switch
 	url = https://github.com/pandorabox-io/mesecons_protected_switch.git
+[submodule "metatool"]
+	path = metatool
+	url = https://github.com/S-S-X/metatool.git
 [submodule "missions"]
 	path = missions
 	url = https://github.com/BuckarooBanzay/missions.git
@@ -221,6 +296,33 @@
 [submodule "monitoring"]
 	path = monitoring
 	url = https://github.com/minetest-monitoring/monitoring.git
+[submodule "monitoring_advtrains"]
+	path = monitoring_advtrains
+	url = https://github.com/minetest-monitoring/monitoring_advtrains.git
+[submodule "monitoring_digilines"]
+	path = monitoring_digilines
+	url = https://github.com/minetest-monitoring/monitoring_digilines.git
+[submodule "monitoring_digtron"]
+	path = monitoring_digtron
+	url = https://github.com/minetest-monitoring/monitoring_digtron.git
+[submodule "monitoring_drawers"]
+	path = monitoring_drawers
+	url = https://github.com/minetest-monitoring/monitoring_drawers.git
+[submodule "monitoring_mesecons"]
+	path = monitoring_mesecons
+	url = https://github.com/minetest-monitoring/monitoring_mesecons.git
+[submodule "monitoring_pipeworks"]
+	path = monitoring_pipeworks
+	url = https://github.com/minetest-monitoring/monitoring_pipeworks.git
+[submodule "monitoring_protection"]
+	path = monitoring_protection
+	url = https://github.com/minetest-monitoring/monitoring_protection.git
+[submodule "monitoring_replacer"]
+	path = monitoring_replacer
+	url = https://github.com/minetest-monitoring/monitoring_replacer.git
+[submodule "monitoring_technic"]
+	path = monitoring_technic
+	url = https://github.com/minetest-monitoring/monitoring_technic.git
 [submodule "moreblocks"]
 	path = moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
@@ -239,13 +341,31 @@
 [submodule "multitools"]
 	path = multitools
 	url = https://github.com/ChimneySwift/multitools.git
+[submodule "mypaths"]
+	path = mypaths
+	url = https://github.com/minetest-mods/mypaths
+[submodule "new_glass"]
+	path = new_glass
+	url = https://github.com/6r1d/minetest_new_glass.git
 [submodule "pandorabox_custom"]
 	path = pandorabox_custom
 	url = https://github.com/pandorabox-io/pandorabox_custom.git
+[submodule "particlefountain"]
+	path = particlefountain
+	url = https://github.com/damocles-minetest/particlefountain.git
 [submodule "pipeworks"]
 	path = pipeworks
 	url = https://github.com/minetest-mirrors/pipeworks.git
 	branch = pandorabox
+[submodule "pipeworks_elbow"]
+	path = pipeworks_elbow
+	url = https://github.com/mt-mods/pipeworks_elbow.git
+[submodule "pipeworks_item_expiration"]
+	path = pipeworks_item_expiration
+	url = https://github.com/BuckarooBanzay/pipeworks_item_expiration.git
+[submodule "pkarcs"]
+	path = pkarcs
+	url = https://github.com/TumeniNodes/pkarcs.git
 [submodule "planet_mars"]
 	path = planet_mars
 	url = https://github.com/pandorabox-io/planet_mars.git
@@ -258,12 +378,36 @@
 [submodule "planetoids"]
 	path = planetoids
 	url = https://github.com/pandorabox-io/planetoids.git
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids.git
+[submodule "playerfactions"]
+	path = playerfactions
+	url = https://github.com/minetest-mirrors/playerfactions.git
 [submodule "pontoons"]
 	path = pontoons
 	url = https://github.com/minetest-mods/pontoons.git
+[submodule "postool"]
+	path = postool
+	url = https://github.com/SwissalpS/postool.git
+[submodule "powerbanks"]
+	path = powerbanks
+	url = https://github.com/OgelGames/powerbanks
+[submodule "prefab"]
+	path = prefab
+	url = https://github.com/mt-mods/prefab.git
+[submodule "priv_protector"]
+	path = priv_protector
+	url = https://github.com/pandorabox-io/priv_protector.git
+[submodule "protector"]
+	path = protector
+	url = https://github.com/mt-mods/protector.git
 [submodule "pvp_areas"]
 	path = pvp_areas
 	url = https://github.com/everamzah/pvp_areas.git
+[submodule "redwood"]
+	path = redwood
+	url = https://github.com/mt-mods/redwood.git
 [submodule "replacer"]
 	path = replacer
 	url = https://github.com/SwissalpS/replacer.git
@@ -273,6 +417,15 @@
 [submodule "scifi_nodes"]
 	path = scifi_nodes
 	url = https://github.com/D00Med/scifi_nodes.git
+[submodule "server_news"]
+	path = server_news
+	url = https://github.com/pandorabox-io/server_news
+[submodule "set_player_privs_cache"]
+	path = set_player_privs_cache
+	url = https://github.com/BuckarooBanzay/set_player_privs_cache.git
+[submodule "shell"]
+	path = shell
+	url = https://github.com/mt-mods/shell.git
 [submodule "signs_lib"]
 	path = signs_lib
 	url = https://gitlab.com/VanessaE/signs_lib.git
@@ -282,6 +435,9 @@
 [submodule "skybox"]
 	path = skybox
 	url = https://github.com/pandorabox-io/skybox.git
+[submodule "slats"]
+	path = slats
+	url = https://github.com/v-rob/slats
 [submodule "sling"]
 	path = sling
 	url = https://github.com/minetest-mods/sling.git
@@ -301,9 +457,15 @@
 [submodule "spacesuit"]
 	path = spacesuit
 	url = https://github.com/mt-mods/spacesuit.git
+[submodule "spill_removal"]
+	path = spill_removal
+	url = https://github.com/pandorabox-io/spill_removal.git
 [submodule "stained_glass"]
 	path = stained_glass
 	url = https://github.com/andersje/stained_glass.git
+[submodule "stairs"]
+	path = stairs
+	url = https://github.com/pandorabox-io/stairs.git
 [submodule "stamina"]
 	path = stamina
 	url = https://github.com/minetest-mods/stamina.git
@@ -328,6 +490,9 @@
 [submodule "toolranks"]
 	path = toolranks
 	url = https://github.com/lisacvuk/minetest-toolranks.git
+[submodule "tpr"]
+	path = tpr
+	url = https://github.com/ChaosWormz/teleport-request
 [submodule "travelnet"]
 	path = travelnet
 	url = https://github.com/mt-mods/travelnet.git
@@ -355,6 +520,10 @@
 [submodule "wine"]
 	path = wine
 	url = https://github.com/minetest-mirrors/wine.git
+[submodule "woodcutting"]
+	path = woodcutting
+	url = https://github.com/BuckarooBanzay/woodcutting
+	branch = nil-check
 [submodule "WorldEdit"]
 	path = WorldEdit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
@@ -367,173 +536,3 @@
 [submodule "xp_redo_ranks_ores"]
 	path = xp_redo_ranks_ores
 	url = https://github.com/mt-mods/xp_redo_ranks_ores.git
-[submodule "fancy_vend"]
-	path = fancy_vend
-	url = https://github.com/pandorabox-io/fancy_vend.git
-[submodule "basic_materials"]
-	path = basic_materials
-	url = https://gitlab.com/VanessaE/basic_materials.git
-[submodule "tpr"]
-	path = tpr
-	url = https://github.com/ChaosWormz/teleport-request
-[submodule "hidden_doors"]
-	path = hidden_doors
-	url = https://github.com/minetest-mirrors/hidden_doors.git
-[submodule "auth_proxy_mod"]
-	path = auth_proxy_mod
-	url = https://github.com/minetest-auth-proxy/auth_proxy_mod
-[submodule "stairs"]
-	path = stairs
-	url = https://github.com/pandorabox-io/stairs.git
-[submodule "atm"]
-	path = atm
-	url = https://github.com/6r1d/atm.git
-[submodule "mesecons_debug"]
-	path = mesecons_debug
-	url = https://github.com/minetest-monitoring/mesecons_debug.git
-[submodule "protector"]
-	path = protector
-	url = https://github.com/mt-mods/protector.git
-[submodule "priv_protector"]
-	path = priv_protector
-	url = https://github.com/pandorabox-io/priv_protector.git
-[submodule "locator"]
-	path = locator
-	url = https://github.com/pandorabox-io/locator.git
-[submodule "woodcutting"]
-	path = woodcutting
-	url = https://github.com/BuckarooBanzay/woodcutting
-	branch = nil-check
-[submodule "prefab"]
-	path = prefab
-	url = https://github.com/mt-mods/prefab.git
-[submodule "player_monoids"]
-	path = player_monoids
-	url = https://github.com/minetest-mods/player_monoids.git
-[submodule "armor_monoid"]
-	path = armor_monoid
-	url = https://github.com/minetest-mods/armor_monoid.git
-[submodule "shell"]
-	path = shell
-	url = https://github.com/mt-mods/shell.git
-[submodule "redwood"]
-	path = redwood
-	url = https://github.com/mt-mods/redwood.git
-[submodule "mesecons_ratelimiter"]
-	path = mesecons_ratelimiter
-	url = https://github.com/minetest-monitoring/mesecons_ratelimiter
-[submodule "playerfactions"]
-	path = playerfactions
-	url = https://github.com/minetest-mirrors/playerfactions.git
-[submodule "advtrains"]
-	path = advtrains
-	url = https://github.com/minetest-mirrors/advtrains.git
-[submodule "basic_signs"]
-	path = basic_signs
-	url = https://gitlab.com/VanessaE/basic_signs.git
-[submodule "illumination"]
-	path = illumination
-	url = https://github.com/pandorabox-io/illumination
-[submodule "postool"]
-	path = postool
-	url = https://github.com/SwissalpS/postool.git
-
-[submodule "pkarcs"]
-	path = pkarcs
-	url = https://github.com/TumeniNodes/pkarcs.git
-[submodule "slats"]
-	path = slats
-	url = https://github.com/v-rob/slats
-[submodule "glass_stained"]
-	path = glass_stained
-	url = https://github.com/v-rob/glass_stained.git
-[submodule "mail_mod"]
-	path = mail_mod
-	url = https://github.com/minetest-mail/mail_mod.git
-[submodule "falling_item"]
-	path = falling_item
-	url = https://notabug.org/TenPlus1/falling_item
-[submodule "christmas"]
-	path = christmas
-	url = https://github.com/mt-mods/christmas.git
-[submodule "powerbanks"]
-	path = powerbanks
-	url = https://github.com/OgelGames/powerbanks
-[submodule ".partial_mods/cool_trees"]
-	path = .partial_mods/cool_trees
-	url = https://github.com/runsy/cool_trees.git
-[submodule "mypaths"]
-	path = mypaths
-	url = https://github.com/minetest-mods/mypaths
-[submodule "pipeworks_elbow"]
-	path = pipeworks_elbow
-	url = https://github.com/mt-mods/pipeworks_elbow.git
-[submodule "particlefountain"]
-	path = particlefountain
-	url = https://github.com/damocles-minetest/particlefountain.git
-[submodule "spill_removal"]
-	path = spill_removal
-	url = https://github.com/pandorabox-io/spill_removal.git
-[submodule "afkkick"]
-	path = afkkick
-	url = https://github.com/pandorabox-io/afkkick.git
-[submodule "new_glass"]
-	path = new_glass
-	url = https://github.com/6r1d/minetest_new_glass.git
-[submodule "server_news"]
-	path = server_news
-	url = https://github.com/pandorabox-io/server_news
-[submodule "digiline_global_memory"]
-	path = digiline_global_memory
-	url = https://github.com/BuckarooBanzay/digiline_global_memory
-[submodule "digtron_customizations"]
-	path = digtron_customizations
-	url = https://github.com/BuckarooBanzay/digtron_customizations
-[submodule "advtrains_custom"]
-	path = advtrains_custom
-	url = https://github.com/pandorabox-io/advtrains_custom.git
-[submodule "metatool"]
-	path = metatool
-	url = https://github.com/S-S-X/metatool.git
-[submodule "digiline_routing"]
-	path = digiline_routing
-	url = https://github.com/numberZero/digiline_routing
-[submodule "find_nodes_in_area_cache"]
-	path = find_nodes_in_area_cache
-	url = https://github.com/BuckarooBanzay/find_nodes_in_area_cache.git
-[submodule "monitoring_technic"]
-	path = monitoring_technic
-	url = https://github.com/minetest-monitoring/monitoring_technic.git
-[submodule "monitoring_replacer"]
-	path = monitoring_replacer
-	url = https://github.com/minetest-monitoring/monitoring_replacer.git
-[submodule "monitoring_protection"]
-	path = monitoring_protection
-	url = https://github.com/minetest-monitoring/monitoring_protection.git
-[submodule "monitoring_pipeworks"]
-	path = monitoring_pipeworks
-	url = https://github.com/minetest-monitoring/monitoring_pipeworks.git
-[submodule "monitoring_mesecons"]
-	path = monitoring_mesecons
-	url = https://github.com/minetest-monitoring/monitoring_mesecons.git
-[submodule "monitoring_digtron"]
-	path = monitoring_digtron
-	url = https://github.com/minetest-monitoring/monitoring_digtron.git
-[submodule "monitoring_digilines"]
-	path = monitoring_digilines
-	url = https://github.com/minetest-monitoring/monitoring_digilines.git
-[submodule "monitoring_advtrains"]
-	path = monitoring_advtrains
-	url = https://github.com/minetest-monitoring/monitoring_advtrains.git
-[submodule "pipeworks_item_expiration"]
-	path = pipeworks_item_expiration
-	url = https://github.com/BuckarooBanzay/pipeworks_item_expiration.git
-[submodule "monitoring_drawers"]
-	path = monitoring_drawers
-	url = https://github.com/minetest-monitoring/monitoring_drawers.git
-[submodule "set_player_privs_cache"]
-	path = set_player_privs_cache
-	url = https://github.com/BuckarooBanzay/set_player_privs_cache.git
-[submodule "auth_cache"]
-	path = auth_cache
-	url = https://github.com/minetest-monitoring/auth_cache.git
