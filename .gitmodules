@@ -143,6 +143,9 @@
 [submodule "drawers"]
 	path = drawers
 	url = https://github.com/minetest-mods/drawers.git
+[submodule "dreambuilder_hotbar"]
+	path = dreambuilder_hotbar
+	url = https://gitlab.com/VanessaE/dreambuilder_hotbar.git
 [submodule "easyvend"]
 	path = easyvend
 	url = https://github.com/minetest-mirrors/easyvend.git
