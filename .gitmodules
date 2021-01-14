@@ -78,7 +78,7 @@
 	url = https://gitlab.com/VanessaE/biome_lib.git
 [submodule "bonemeal"]
 	path = bonemeal
-	url = https://notabug.org/TenPlus1/bonemeal.git
+	url = https://github.com/minetest-mirrors/bonemeal.git
 [submodule "boost_cart"]
 	path = boost_cart
 	url = https://github.com/SmallJoker/boost_cart.git
@@ -163,7 +163,7 @@
 	url = https://github.com/pandorabox-io/factory_bridges.git
 [submodule "falling_item"]
 	path = falling_item
-	url = https://notabug.org/TenPlus1/falling_item
+	url = https://github.com/minetest-mirrors/falling_item
 [submodule "fancy_vend"]
 	path = fancy_vend
 	url = https://github.com/pandorabox-io/fancy_vend.git
@@ -280,7 +280,7 @@
 	url = https://github.com/minetest-mirrors/mobs_redo.git
 [submodule "mobs_animal"]
 	path = mobs_animal
-	url = https://notabug.org/TenPlus1/mobs_animal.git
+	url = https://github.com/minetest-mirrors/mobs_animal.git
 [submodule "mobs_monster"]
 	path = mobs_monster
 	url = https://notabug.org/TenPlus1/mobs_monster.git
