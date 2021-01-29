@@ -539,3 +539,6 @@
 [submodule "blockexchange"]
 	path = blockexchange
 	url = https://github.com/blockexchange/blockexchange
+[submodule "digicontrol"]
+	path = digicontrol
+	url = https://github.com/OgelGames/digicontrol
