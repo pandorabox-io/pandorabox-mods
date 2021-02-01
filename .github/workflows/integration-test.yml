@@ -17,7 +17,7 @@ jobs:
       run: ./test.sh
 
     - name: 📧 Discord success notification
-      if: secrets.discord_webhook
+      if: ${{ secrets.discord_webhook }}
       env:
         DISCORD_WEBHOOK: ${{ secrets.discord_webhook }}
       uses: Ilshidur/action-discord@master
@@ -25,7 +25,7 @@ jobs:
         args: '☑️ Integration test passed for branch `${{ github.ref }}` and commit `${{ github.sha }}`'
 
     - name: 📧 Discord failure notification
-      if: failure() and secrets.discord_webhook
+      if: ${{ failure() and secrets.discord_webhook }}
       env:
         DISCORD_WEBHOOK: ${{ secrets.discord_webhook }}
       uses: Ilshidur/action-discord@master
