@@ -542,6 +542,3 @@
 [submodule "digicontrol"]
 	path = digicontrol
 	url = https://github.com/OgelGames/digicontrol
-[submodule "pick_axe_tweaks"]
-	path = pick_axe_tweaks
-	url = https://github.com/wsor4035/pick_axe_tweaks.git
