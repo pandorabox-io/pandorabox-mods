@@ -544,3 +544,6 @@
 [submodule "pick_axe_tweaks"]
 	path = pick_axe_tweaks
 	url = https://github.com/wsor4035/pick_axe_tweaks.git
+[submodule "minimap_radar"]
+	path = minimap_radar
+	url = https://github.com/OgelGames/minimap_radar.git
