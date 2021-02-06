@@ -103,7 +103,6 @@
 [submodule "charcoal"]
 	path = charcoal
 	url = https://github.com/pandorabox-io/charcoal.git
-	branch = pandorabox
 [submodule "christmas"]
 	path = christmas
 	url = https://github.com/mt-mods/christmas.git
