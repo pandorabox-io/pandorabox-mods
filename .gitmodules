@@ -126,7 +126,7 @@
 	url = https://github.com/minetest-mods/digilines.git
 [submodule "digistuff"]
 	path = digistuff
-	url = https://github.com/minetest-mirrors/digistuff.git
+	url = https://github.com/mt-mods/digistuff.git
 [submodule "digiterms"]
 	path = digiterms
 	url = https://github.com/pyrollo/digiterms.git
