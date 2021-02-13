@@ -118,9 +118,6 @@
 [submodule "digiline_global_memory"]
 	path = digiline_global_memory
 	url = https://github.com/BuckarooBanzay/digiline_global_memory
-[submodule "digiline_routing"]
-	path = digiline_routing
-	url = https://github.com/numberZero/digiline_routing
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines.git
