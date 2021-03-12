@@ -359,9 +359,6 @@
 [submodule "pipeworks_elbow"]
 	path = pipeworks_elbow
 	url = https://github.com/mt-mods/pipeworks_elbow.git
-[submodule "pipeworks_item_expiration"]
-	path = pipeworks_item_expiration
-	url = https://github.com/BuckarooBanzay/pipeworks_item_expiration.git
 [submodule "pkarcs"]
 	path = pkarcs
 	url = https://github.com/TumeniNodes/pkarcs.git
