@@ -541,3 +541,6 @@
 [submodule "minimap_radar"]
 	path = minimap_radar
 	url = https://github.com/OgelGames/minimap_radar.git
+[submodule "qos"]
+	path = qos
+	url = https://github.com/S-S-X/qos.git
