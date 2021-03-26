@@ -544,3 +544,6 @@
 [submodule "qos"]
 	path = qos
 	url = https://github.com/S-S-X/qos.git
+[submodule "machine_parts"]
+	path = machine_parts
+	url = https://github.com/mt-mods/machine_parts.git
