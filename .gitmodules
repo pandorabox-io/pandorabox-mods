@@ -547,3 +547,6 @@
 [submodule "machine_parts"]
 	path = machine_parts
 	url = https://github.com/mt-mods/machine_parts.git
+[submodule "pandorabox_integration_test"]
+	path = pandorabox_integration_test
+	url = https://github.com/pandorabox-io/pandorabox_integration_test.git
