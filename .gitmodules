@@ -547,3 +547,6 @@
 [submodule "pandorabox_integration_test"]
 	path = pandorabox_integration_test
 	url = https://github.com/pandorabox-io/pandorabox_integration_test.git
+[submodule "bike"]
+	path = bike
+	url = https://gitlab.com/SwissalpS/bike.git
