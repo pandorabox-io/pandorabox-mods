@@ -482,7 +482,7 @@
 	url = https://github.com/lisacvuk/minetest-toolranks.git
 [submodule "tpr"]
 	path = tpr
-	url = https://github.com/ChaosWormz/teleport-request
+	url = https://github.com/minetest-mods/teleport-request
 [submodule "travelnet"]
 	path = travelnet
 	url = https://github.com/mt-mods/travelnet.git
