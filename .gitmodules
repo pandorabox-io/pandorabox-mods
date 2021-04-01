@@ -243,7 +243,7 @@
 	url = https://github.com/minetest-mods/maptools.git
 [submodule "mesecons"]
 	path = mesecons
-	url = https://github.com/buckarooBanzay/mesecons.git
+	url = https://github.com/minetest-mods/mesecons.git
 	branch = vm-light-write
 [submodule "mesecons_debug"]
 	path = mesecons_debug
