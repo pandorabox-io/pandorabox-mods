@@ -550,3 +550,6 @@
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/SwissalpS/bike.git
+[submodule "basic_trains"]
+	path = basic_trains
+	url = https://git.bananach.space/basic_trains.git
