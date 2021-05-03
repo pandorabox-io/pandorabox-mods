@@ -549,7 +549,7 @@
 	url = https://github.com/pandorabox-io/pandorabox_integration_test.git
 [submodule "bike"]
 	path = bike
-	url = https://gitlab.com/SwissalpS/bike.git
+	url = https://gitlab.com/h2mm/bike.git
 [submodule "basic_trains"]
 	path = basic_trains
 	url = https://github.com/minetest-mirrors/basic_trains.git
