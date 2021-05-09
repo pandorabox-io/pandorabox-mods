@@ -553,3 +553,6 @@
 [submodule "basic_trains"]
 	path = basic_trains
 	url = https://github.com/minetest-mirrors/basic_trains.git
+[submodule "beowulf"]
+	path = beowulf
+	url = https://github.com/mt-mods/beowulf.git
