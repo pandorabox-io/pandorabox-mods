@@ -561,3 +561,6 @@
 [submodule "ice"]
 	path = ice
 	url = https://github.com/mt-mods/ice
+[submodule "mtinfo"]
+	path = mtinfo
+	url = https://github.com/BuckarooBanzay/mtinfo/
