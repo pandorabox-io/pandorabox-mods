@@ -458,7 +458,7 @@
 	url = https://github.com/pandorabox-io/stairs.git
 [submodule "stamina"]
 	path = stamina
-	url = https://github.com/minetest-mods/stamina.git
+	url = https://github.com/S-S-X/stamina.git
 [submodule "technic"]
 	path = technic
 	url = https://github.com/mt-mods/technic.git
