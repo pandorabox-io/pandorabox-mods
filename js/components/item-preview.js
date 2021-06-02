@@ -95,7 +95,7 @@ Vue.component("cube-face", {
 				width: this.size + "px",
 				height: this.size + "px",
 				"backface-visibility": "hidden",
-				"image-rendering": ["crisp-edges", "-webkit-optimize-contrast"],
+				"image-rendering": ["crisp-edges", "-webkit-optimize-contrast", "pixelated"],
 				"background-size": "cover",
 				"transform": `rotateX(${this.rotateX}) rotateY(${this.rotateY}) translateZ(${this.translateZ})`,
 				"background-image": `url(${this.img})`
