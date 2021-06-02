@@ -558,3 +558,6 @@
 [submodule "home_workshop_modpack"]
 	path = home_workshop_modpack
 	url = https://gitlab.com/VanessaE/home_workshop_modpack.git
+[submodule "ice"]
+	path = ice
+	url = https://github.com/mt-mods/ice
