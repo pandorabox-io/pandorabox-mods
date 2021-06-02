@@ -1,0 +1,25 @@
+
+.inventory-table td {
+	width: 64px;
+	height: 64px;
+	background: #00000065;
+	padding: 0px;
+	border: 0.25em solid #343434;
+}
+
+table.inventory-table {
+	table-layout: fixed;
+}
+
+@keyframes spinner {
+	from {
+		-moz-transform: rotateY(0deg);
+		-ms-transform: rotateY(0deg);
+		transform: rotateY(0deg);
+	}
+	to {
+		-moz-transform: rotateY(-360deg);
+		-ms-transform: rotateY(-360deg);
+		transform: rotateY(-360deg);
+	}
+}
