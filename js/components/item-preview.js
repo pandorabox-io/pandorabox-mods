@@ -74,28 +74,33 @@ Vue.component("item-preview-group", {
 Vue.component("item-preview-inventoryimage", {
 	props: ["item", "size"],
 	computed: {
-		imgsrc: function () {
+		imgsrc: function() {
 			if (this.item.inventory_image)
 				return `textures/${mtinfo.stripimagetransforms(this.item.inventory_image)}`;
 			else
 				return "pics/unknown_node.png";
+		},
+		style: function(){
+			return {
+				"image-rendering": ["crisp-edges", "-webkit-optimize-contrast", "pixelated", "-moz-crisp-edges"]
+			};
 		}
 	},
 	template: /*html*/`
-		<img :src="imgsrc" :width="size" :height="size" style="image-rendering: crisp-edges;"/>
+		<img :src="imgsrc" :width="size" :height="size" :style="style"/>
   `
 });
 
 Vue.component("cube-face", {
 	props: ["rotateX", "rotateY", "translateZ", "img", "size"],
 	computed: {
-		style: function () {
+		style: function() {
 			return {
 				position: "absolute",
 				width: this.size + "px",
 				height: this.size + "px",
 				"backface-visibility": "hidden",
-				"image-rendering": ["crisp-edges", "-webkit-optimize-contrast", "pixelated"],
+				"image-rendering": ["crisp-edges", "-webkit-optimize-contrast", "pixelated", "-moz-crisp-edges"],
 				"background-size": "cover",
 				"transform": `rotateX(${this.rotateX}) rotateY(${this.rotateY}) translateZ(${this.translateZ})`,
 				"background-image": `url(${this.img})`
