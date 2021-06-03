@@ -564,3 +564,6 @@
 [submodule "mtinfo"]
 	path = mtinfo
 	url = https://github.com/BuckarooBanzay/mtinfo/
+[submodule "digiline_craftdb"]
+	path = digiline_craftdb
+	url = https://github.com/dennisjenkins75/digiline_craftdb
