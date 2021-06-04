@@ -26,7 +26,7 @@ Vue.component("abm-list", {
 			<template v-slot:row="{ item }">
 				<td>
                     <router-link :to="'/abms/' + item.key">
-                        {{ item.label }}
+                        {{ item.label || item.key }}
                     </router-link>
                 </td>
 				<td>
@@ -36,13 +36,11 @@ Vue.component("abm-list", {
                     <span class="badge badge-secondary">{{ item.interval }}</span>
 				</td>
 				<td>
-                    <table class="inventory-table">
-                        <tr v-for="name in item.nodenames">
-                            <td>
-                                <item-preview :name="name" size="64"/>
-                            </td>
-                        </tr>
-                    </table>
+                    <ul>
+                        <li v-for="name in item.nodenames">
+							<item-link :name="name">
+                        </li>
+                    </ul>
 				</td>
 			</template>
 		</paged-table>

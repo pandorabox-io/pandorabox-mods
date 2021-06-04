@@ -23,6 +23,11 @@ Vue.component("nav-bar", {
           </router-link>
         </li>
 				<li class="nav-item">
+          <router-link to="/abms" class="nav-link">
+            <i class="fa fa-stopwatch"></i> ABM
+          </router-link>
+        </li>
+				<li class="nav-item">
           <router-link to="/search" class="nav-link">
             <i class="fa fa-search"></i> Search
           </router-link>

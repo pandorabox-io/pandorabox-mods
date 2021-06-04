@@ -6,18 +6,6 @@ Vue.component("abm-info", {
 		//TODO: debug
 		console.log(this.abm, this.abm_key);
 	},
-	methods: {
-		getItemLink: function(name){
-			if (/^group:/.test(name)){
-				// group
-				const groupname = name.split([":"])[1];
-				return `/groups/${groupname}`
-			} else {
-				// plain item
-				return `/items/${name}`
-			}
-		}
-	},
 	template: /*html*/`
     <div>
 			<h4>{{ abm_key }}</h4>
@@ -26,17 +14,13 @@ Vue.component("abm-info", {
 			<p>Nodenames</p>
 			<ul>
 				<li v-for="nodename in abm.nodenames">
-					<router-link :to="getItemLink(nodename)">
-						{{ nodename }}
-					</router-link>
+					<item-link :name="nodename">
 				</li>
 			</ul>
 			<p>Neighbors</p>
 			<ul>
 				<li v-for="neighbor in abm.neighbors">
-					<router-link :to="getItemLink(neighbor)">
-						{{ neighbor }}
-					</router-link>
+					<item-link :name="neighbor">
 				</li>
 			</ul>
     </div>
