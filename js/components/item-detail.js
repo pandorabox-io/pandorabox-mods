@@ -73,6 +73,7 @@ Vue.component("item-detail", {
 					</router-link>
 				</li>
 			</ul>
+			<vue-markdown v-if="item.mtinfo">{{item.mtinfo.text}}</vue-markdown>
 		</div>
 	`
 });

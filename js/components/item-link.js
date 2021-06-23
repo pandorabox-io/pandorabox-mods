@@ -5,10 +5,10 @@ Vue.component("item-link", {
 			if (/^group:/.test(name)){
 				// group
 				const groupname = name.split([":"])[1];
-				return `/groups/${groupname}`
+				return `/groups/${groupname}`;
 			} else {
 				// plain item
-				return `/items/${name}`
+				return `/items/${name}`;
 			}
 		}
 	},

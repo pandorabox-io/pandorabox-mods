@@ -5,6 +5,6 @@
     "Vue": true,
     "VueRouter": true,
 		"mtinfo": true,
-    "THREE": true
+    "VueMarkdown": true
   }
 }

@@ -1,4 +1,6 @@
 
+Vue.use(VueMarkdown);
+
 const router = new VueRouter({
 	routes: [{
 		path: "/",
