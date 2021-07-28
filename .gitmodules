@@ -3,7 +3,7 @@
 	url = https://github.com/runsy/cool_trees.git
 [submodule "3d_armor"]
 	path = 3d_armor
-	url = https://github.com/mt-mods/3d_armor.git
+	url = https://github.com/minetest-mods/3d_armor.git
 [submodule "adv_keys"]
 	path = adv_keys
 	url = https://github.com/Lejo1/adv_keys.git
