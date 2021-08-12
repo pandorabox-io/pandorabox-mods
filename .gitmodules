@@ -207,7 +207,7 @@
 	url = https://gitlab.com/VanessaE/ilights.git
 [submodule "illumination"]
 	path = illumination
-	url = https://github.com/pandorabox-io/illumination
+	url = https://github.com/mt-mods/illumination
 [submodule "inspector"]
 	path = inspector
 	url = https://github.com/minetest-mods/inspector.git
