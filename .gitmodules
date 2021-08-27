@@ -567,3 +567,6 @@
 [submodule "digiline_craftdb"]
 	path = digiline_craftdb
 	url = https://github.com/dennisjenkins75/digiline_craftdb
+[submodule "basic_streets"]
+	path = basic_streets
+	url = https://github.com/BuckarooBanzay/basic_streets.git
