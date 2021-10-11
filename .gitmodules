@@ -570,3 +570,6 @@
 [submodule "basic_streets"]
 	path = basic_streets
 	url = https://github.com/BuckarooBanzay/basic_streets.git
+[submodule "obsidianstuff"]
+	path = obsidianstuff
+	url = https://github.com/OgelGames/obsidianstuff
