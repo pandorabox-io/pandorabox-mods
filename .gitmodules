@@ -186,7 +186,7 @@
 	url = https://github.com/pandorabox-io/geoip.git
 [submodule "glass_stained"]
 	path = glass_stained
-	url = https://github.com/v-rob/glass_stained.git
+	url = https://github.com/OgelGames/glass_stained.git
 [submodule "gravity_manager"]
 	path = gravity_manager
 	url = https://github.com/pandorabox-io/gravity_manager.git
