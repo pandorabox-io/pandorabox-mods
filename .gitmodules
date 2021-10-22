@@ -148,9 +148,6 @@
 [submodule "elevator"]
 	path = elevator
 	url = https://github.com/shacknetisp/elevator.git
-[submodule "endless_apples"]
-	path = endless_apples
-	url = https://github.com/Ezhh/endless_apples.git
 [submodule "factory_bridges"]
 	path = factory_bridges
 	url = https://github.com/pandorabox-io/factory_bridges.git
