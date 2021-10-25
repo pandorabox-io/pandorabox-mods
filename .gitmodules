@@ -451,7 +451,7 @@
 	url = https://github.com/andersje/stained_glass.git
 [submodule "stairs"]
 	path = stairs
-	url = https://github.com/pandorabox-io/stairs.git
+	url = https://notabug.org/TenPlus1/stairs.git
 [submodule "stamina"]
 	path = stamina
 	url = https://github.com/minetest-mods/stamina.git
