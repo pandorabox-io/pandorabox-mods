@@ -8,4 +8,5 @@ shields/textures/shields_shield_gold.png:shield
 shields/textures/shields_shield_diamond.png:shield
 shields/textures/shields_shield_mithril.png:shield
 shields/textures/shields_shield_crystal.png:shield
+shields/textures/shields_shield_nether.png:shield
 shields/textures/shields_shield_admin.png:shield
