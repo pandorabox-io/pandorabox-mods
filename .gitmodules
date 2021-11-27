@@ -54,7 +54,7 @@
 	url = https://github.com/pandorabox-io/banners.git
 [submodule "basic_materials"]
 	path = basic_materials
-	url = https://gitlab.com/VanessaE/basic_materials.git
+	url = https://github.com/mt-mods/basic_materials.git
 [submodule "basic_signs"]
 	path = basic_signs
 	url = https://gitlab.com/VanessaE/basic_signs.git
@@ -348,7 +348,7 @@
 	url = https://github.com/damocles-minetest/particlefountain.git
 [submodule "pipeworks"]
 	path = pipeworks
-	url = https://github.com/minetest-mirrors/pipeworks.git
+	url = https://github.com/mt-mods/pipeworks.git
 [submodule "pipeworks_elbow"]
 	path = pipeworks_elbow
 	url = https://github.com/mt-mods/pipeworks_elbow.git
