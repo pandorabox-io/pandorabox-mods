@@ -4,9 +4,6 @@
 [submodule "3d_armor"]
 	path = 3d_armor
 	url = https://github.com/minetest-mods/3d_armor.git
-[submodule "adv_keys"]
-	path = adv_keys
-	url = https://github.com/Lejo1/adv_keys.git
 [submodule "advtrains"]
 	path = advtrains
 	url = https://github.com/minetest-mirrors/advtrains.git
@@ -22,6 +19,9 @@
 [submodule "advtrains_subway_colored"]
 	path = advtrains_subway_colored
 	url = https://github.com/pandorabox-io/advtrains_subway_colored.git
+[submodule "adv_keys"]
+	path = adv_keys
+	url = https://github.com/Lejo1/adv_keys.git
 [submodule "afkkick"]
 	path = afkkick
 	url = https://github.com/pandorabox-io/afkkick.git
@@ -57,7 +57,13 @@
 	url = https://github.com/mt-mods/basic_materials.git
 [submodule "basic_signs"]
 	path = basic_signs
-	url = https://gitlab.com/VanessaE/basic_signs.git
+	url = https://github.com/mt-mods/basic_signs.git
+[submodule "basic_streets"]
+	path = basic_streets
+	url = https://github.com/BuckarooBanzay/basic_streets.git
+[submodule "basic_trains"]
+	path = basic_trains
+	url = https://github.com/minetest-mirrors/basic_trains.git
 [submodule "beacon"]
 	path = beacon
 	url = https://github.com/OgelGames/beacon.git
@@ -67,12 +73,21 @@
 [submodule "beerchat"]
 	path = beerchat
 	url = https://github.com/pandorabox-io/beerchat.git
+[submodule "beowulf"]
+	path = beowulf
+	url = https://github.com/mt-mods/beowulf.git
+[submodule "bike"]
+	path = bike
+	url = https://gitlab.com/h2mm/bike.git
 [submodule "biofuel"]
 	path = biofuel
 	url = https://github.com/Lokrates/Biofuel.git
 [submodule "biome_lib"]
 	path = biome_lib
-	url = https://gitlab.com/VanessaE/biome_lib.git
+	url = https://github.com/mt-mods/biome_lib.git
+[submodule "blockexchange"]
+	path = blockexchange
+	url = https://github.com/blockexchange/blockexchange
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://github.com/minetest-mirrors/bonemeal.git
@@ -108,16 +123,22 @@
 	url = https://github.com/mt-mods/controls.git
 [submodule "currency"]
 	path = currency
-	url = https://gitlab.com/VanessaE/currency.git
+	url = https://github.com/mt-mods/currency.git
 [submodule "datastorage"]
 	path = datastorage
 	url = https://github.com/minetest-technic/datastorage.git
-[submodule "digiline_global_memory"]
-	path = digiline_global_memory
-	url = https://github.com/BuckarooBanzay/digiline_global_memory
+[submodule "digicontrol"]
+	path = digicontrol
+	url = https://github.com/OgelGames/digicontrol
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines.git
+[submodule "digiline_craftdb"]
+	path = digiline_craftdb
+	url = https://github.com/dennisjenkins75/digiline_craftdb
+[submodule "digiline_global_memory"]
+	path = digiline_global_memory
+	url = https://github.com/BuckarooBanzay/digiline_global_memory
 [submodule "digistuff"]
 	path = digistuff
 	url = https://github.com/mt-mods/digistuff.git
@@ -138,7 +159,7 @@
 	url = https://github.com/minetest-mods/drawers.git
 [submodule "dreambuilder_hotbar"]
 	path = dreambuilder_hotbar
-	url = https://gitlab.com/VanessaE/dreambuilder_hotbar.git
+	url = https://github.com/mt-mods/dreambuilder_hotbar.git
 [submodule "easyvend"]
 	path = easyvend
 	url = https://github.com/minetest-mirrors/easyvend.git
@@ -199,9 +220,15 @@
 [submodule "homedecor_modpack"]
 	path = homedecor_modpack
 	url = https://github.com/mt-mods/homedecor_modpack.git
+[submodule "home_workshop_modpack"]
+	path = home_workshop_modpack
+	url = https://github.com/mt-mods/home_workshop_modpack.git
+[submodule "ice"]
+	path = ice
+	url = https://github.com/mt-mods/ice
 [submodule "ilights"]
 	path = ilights
-	url = https://gitlab.com/VanessaE/ilights.git
+	url = https://github.com/mt-mods/ilights.git
 [submodule "illumination"]
 	path = illumination
 	url = https://github.com/mt-mods/illumination
@@ -219,7 +246,7 @@
 	url = https://github.com/LoneWolfHT/lavastuff.git
 [submodule "led_marquee"]
 	path = led_marquee
-	url = https://gitlab.com/VanessaE/led_marquee.git
+	url = https://github.com/mt-mods/led_marquee.git
 [submodule "letters"]
 	path = letters
 	url = https://github.com/minetest-mods/letters.git
@@ -229,6 +256,9 @@
 [submodule "loot"]
 	path = loot
 	url = https://github.com/minetest-mods/loot.git
+[submodule "machine_parts"]
+	path = machine_parts
+	url = https://github.com/mt-mods/machine_parts.git
 [submodule "mail_mod"]
 	path = mail_mod
 	url = https://github.com/minetest-mail/mail_mod.git
@@ -244,27 +274,27 @@
 [submodule "mesecons_debug"]
 	path = mesecons_debug
 	url = https://github.com/minetest-monitoring/mesecons_debug.git
-[submodule "mesecons_ratelimiter"]
-	path = mesecons_ratelimiter
-	url = https://github.com/minetest-monitoring/mesecons_ratelimiter
-[submodule "mesecons_stealthnode"]
-	path = mesecons_stealthnode
-	url = https://github.com/acmgit/mesecons_stealthnode.git
 [submodule "mesecons_protected_button"]
 	path = mesecons_protected_button
 	url = https://github.com/pandorabox-io/mesecons_protected_button.git
 [submodule "mesecons_protected_switch"]
 	path = mesecons_protected_switch
 	url = https://github.com/pandorabox-io/mesecons_protected_switch.git
+[submodule "mesecons_ratelimiter"]
+	path = mesecons_ratelimiter
+	url = https://github.com/minetest-monitoring/mesecons_ratelimiter
+[submodule "mesecons_stealthnode"]
+	path = mesecons_stealthnode
+	url = https://github.com/acmgit/mesecons_stealthnode.git
 [submodule "metatool"]
 	path = metatool
 	url = https://github.com/S-S-X/metatool.git
+[submodule "minimap_radar"]
+	path = minimap_radar
+	url = https://github.com/OgelGames/minimap_radar.git
 [submodule "missions"]
 	path = missions
 	url = https://github.com/BuckarooBanzay/missions.git
-[submodule "mob_horse"]
-	path = mob_horse
-	url = https://notabug.org/TenPlus1/mob_horse.git
 [submodule "mobs"]
 	path = mobs
 	url = https://github.com/minetest-mirrors/mobs_redo.git
@@ -283,6 +313,9 @@
 [submodule "mobs_xenomorph"]
 	path = mobs_xenomorph
 	url = https://github.com/pandorabox-io/mobs_xenomorph.git
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://notabug.org/TenPlus1/mob_horse.git
 [submodule "moderator_armor"]
 	path = moderator_armor
 	url = https://github.com/pandorabox-io/moderator_armor.git
@@ -319,9 +352,6 @@
 [submodule "moreblocks"]
 	path = moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
-[submodule "more_chests"]
-	path = more_chests
-	url = https://github.com/minetest-mods/more_chests.git
 [submodule "morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights.git
@@ -330,7 +360,13 @@
 	url = https://github.com/minetest-mods/moreores.git
 [submodule "moretrees"]
 	path = moretrees
-	url = https://gitlab.com/VanessaE/moretrees.git
+	url = https://github.com/mt-mods/moretrees.git
+[submodule "more_chests"]
+	path = more_chests
+	url = https://github.com/minetest-mods/more_chests.git
+[submodule "mtinfo"]
+	path = mtinfo
+	url = https://github.com/BuckarooBanzay/mtinfo/
 [submodule "multitools"]
 	path = multitools
 	url = https://github.com/ChimneySwift/multitools.git
@@ -340,12 +376,21 @@
 [submodule "new_glass"]
 	path = new_glass
 	url = https://github.com/6r1d/minetest_new_glass.git
+[submodule "obsidianstuff"]
+	path = obsidianstuff
+	url = https://github.com/OgelGames/obsidianstuff
 [submodule "pandorabox_custom"]
 	path = pandorabox_custom
 	url = https://github.com/pandorabox-io/pandorabox_custom.git
+[submodule "pandorabox_integration_test"]
+	path = pandorabox_integration_test
+	url = https://github.com/pandorabox-io/pandorabox_integration_test.git
 [submodule "particlefountain"]
 	path = particlefountain
 	url = https://github.com/damocles-minetest/particlefountain.git
+[submodule "pick_axe_tweaks"]
+	path = pick_axe_tweaks
+	url = https://github.com/wsor4035/pick_axe_tweaks.git
 [submodule "pipeworks"]
 	path = pipeworks
 	url = https://github.com/mt-mods/pipeworks.git
@@ -355,24 +400,24 @@
 [submodule "pkarcs"]
 	path = pkarcs
 	url = https://github.com/TumeniNodes/pkarcs.git
-[submodule "planet_mars"]
-	path = planet_mars
-	url = https://github.com/pandorabox-io/planet_mars.git
-[submodule "planet_moon"]
-	path = planet_moon
-	url = https://github.com/pandorabox-io/planet_moon.git
 [submodule "planetoidgen"]
 	path = planetoidgen
 	url = https://github.com/pandorabox-io/planetoidgen.git
 [submodule "planetoids"]
 	path = planetoids
 	url = https://github.com/pandorabox-io/planetoids.git
-[submodule "player_monoids"]
-	path = player_monoids
-	url = https://github.com/minetest-mods/player_monoids.git
+[submodule "planet_mars"]
+	path = planet_mars
+	url = https://github.com/pandorabox-io/planet_mars.git
+[submodule "planet_moon"]
+	path = planet_moon
+	url = https://github.com/pandorabox-io/planet_moon.git
 [submodule "playerfactions"]
 	path = playerfactions
 	url = https://github.com/minetest-mirrors/playerfactions.git
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids.git
 [submodule "pontoons"]
 	path = pontoons
 	url = https://github.com/minetest-mods/pontoons.git
@@ -394,6 +439,9 @@
 [submodule "pvp_areas"]
 	path = pvp_areas
 	url = https://github.com/everamzah/pvp_areas.git
+[submodule "qos"]
+	path = qos
+	url = https://github.com/S-S-X/qos.git
 [submodule "redwood"]
 	path = redwood
 	url = https://github.com/mt-mods/redwood.git
@@ -414,7 +462,7 @@
 	url = https://github.com/BuckarooBanzay/set_player_privs_cache.git
 [submodule "signs_lib"]
 	path = signs_lib
-	url = https://gitlab.com/VanessaE/signs_lib.git
+	url = https://github.com/mt-mods/signs_lib.git
 [submodule "skinsdb"]
 	path = skinsdb
 	url = https://github.com/minetest-mods/skinsdb.git
@@ -482,18 +530,18 @@
 [submodule "travelnet"]
 	path = travelnet
 	url = https://github.com/mt-mods/travelnet.git
+[submodule "unifiedbricks"]
+	path = unifiedbricks
+	url = https://github.com/minetest-mods/unifiedbricks.git
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://github.com/mt-mods/unifieddyes.git
 [submodule "unified_inventory"]
 	path = unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory.git
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus.git
-[submodule "unifiedbricks"]
-	path = unifiedbricks
-	url = https://github.com/minetest-mods/unifiedbricks.git
-[submodule "unifieddyes"]
-	path = unifieddyes
-	url = https://gitlab.com/VanessaE/unifieddyes.git
 [submodule "vacuum"]
 	path = vacuum
 	url = https://github.com/mt-mods/vacuum.git
@@ -522,51 +570,3 @@
 [submodule "xp_redo_ranks_ores"]
 	path = xp_redo_ranks_ores
 	url = https://github.com/mt-mods/xp_redo_ranks_ores.git
-[submodule "blockexchange"]
-	path = blockexchange
-	url = https://github.com/blockexchange/blockexchange
-[submodule "digicontrol"]
-	path = digicontrol
-	url = https://github.com/OgelGames/digicontrol
-[submodule "pick_axe_tweaks"]
-	path = pick_axe_tweaks
-	url = https://github.com/wsor4035/pick_axe_tweaks.git
-[submodule "minimap_radar"]
-	path = minimap_radar
-	url = https://github.com/OgelGames/minimap_radar.git
-[submodule "qos"]
-	path = qos
-	url = https://github.com/S-S-X/qos.git
-[submodule "machine_parts"]
-	path = machine_parts
-	url = https://github.com/mt-mods/machine_parts.git
-[submodule "pandorabox_integration_test"]
-	path = pandorabox_integration_test
-	url = https://github.com/pandorabox-io/pandorabox_integration_test.git
-[submodule "bike"]
-	path = bike
-	url = https://gitlab.com/h2mm/bike.git
-[submodule "basic_trains"]
-	path = basic_trains
-	url = https://github.com/minetest-mirrors/basic_trains.git
-[submodule "beowulf"]
-	path = beowulf
-	url = https://github.com/mt-mods/beowulf.git
-[submodule "home_workshop_modpack"]
-	path = home_workshop_modpack
-	url = https://github.com/mt-mods/home_workshop_modpack.git
-[submodule "ice"]
-	path = ice
-	url = https://github.com/mt-mods/ice
-[submodule "mtinfo"]
-	path = mtinfo
-	url = https://github.com/BuckarooBanzay/mtinfo/
-[submodule "digiline_craftdb"]
-	path = digiline_craftdb
-	url = https://github.com/dennisjenkins75/digiline_craftdb
-[submodule "basic_streets"]
-	path = basic_streets
-	url = https://github.com/BuckarooBanzay/basic_streets.git
-[submodule "obsidianstuff"]
-	path = obsidianstuff
-	url = https://github.com/OgelGames/obsidianstuff
