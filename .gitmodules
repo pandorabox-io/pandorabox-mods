@@ -423,7 +423,7 @@
 	url = https://github.com/minetest-mods/pontoons.git
 [submodule "postool"]
 	path = postool
-	url = https://github.com/BuckarooBanzay/postool.git
+	url = https://github.com/SwissalpS/postool.git
 [submodule "powerbanks"]
 	path = powerbanks
 	url = https://github.com/OgelGames/powerbanks
