@@ -201,7 +201,7 @@
 	url = https://github.com/pandorabox-io/geocache.git
 [submodule "geoip"]
 	path = geoip
-	url = https://github.com/pandorabox-io/geoip.git
+	url = https://github.com/mt-mods/geoip.git
 [submodule "glass_stained"]
 	path = glass_stained
 	url = https://github.com/OgelGames/glass_stained.git
