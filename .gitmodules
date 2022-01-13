@@ -270,7 +270,7 @@
 	url = https://github.com/minetest-mods/maptools.git
 [submodule "mesecons"]
 	path = mesecons
-	url = https://github.com/minetest-mods/mesecons.git
+	url = https://github.com/mt-mods/mesecons.git
 [submodule "mesecons_debug"]
 	path = mesecons_debug
 	url = https://github.com/minetest-monitoring/mesecons_debug.git
