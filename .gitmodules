@@ -193,9 +193,6 @@
 [submodule "framedglass"]
 	path = framedglass
 	url = https://github.com/minetest-mods/framedglass.git
-[submodule "fsc"]
-	path = fsc
-	url = https://github.com/sofar/fsc.git
 [submodule "geocache"]
 	path = geocache
 	url = https://github.com/pandorabox-io/geocache.git
