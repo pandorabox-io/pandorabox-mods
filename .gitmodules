@@ -39,7 +39,7 @@
 	url = https://github.com/minetest-mods/armor_monoid.git
 [submodule "atm"]
 	path = atm
-	url = https://github.com/6r1d/atm.git
+	url = https://github.com/mt-mods/atm.git
 [submodule "auth_cache"]
 	path = auth_cache
 	url = https://github.com/minetest-monitoring/auth_cache.git
