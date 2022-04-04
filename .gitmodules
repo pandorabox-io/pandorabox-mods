@@ -570,3 +570,9 @@
 [submodule "xp_redo_ranks_ores"]
 	path = xp_redo_ranks_ores
 	url = https://github.com/mt-mods/xp_redo_ranks_ores.git
+[submodule "fs51"]
+	path = fs51
+	url = https://gitlab.com/luk3yx/minetest-fs51
+[submodule "formspec_ast"]
+	path = formspec_ast
+	url = https://gitlab.com/luk3yx/minetest-formspec_ast
