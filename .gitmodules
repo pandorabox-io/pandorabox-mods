@@ -303,19 +303,19 @@
 	url = https://github.com/minetest-mirrors/mobs_animal.git
 [submodule "mobs_monster"]
 	path = mobs_monster
-	url = https://notabug.org/TenPlus1/mobs_monster.git
+	url = https://github.com/minetest-mirrors/mobs_monster.git
 [submodule "mobs_npc"]
 	path = mobs_npc
 	url = https://github.com/pandorabox-io/mobs_npc.git
 [submodule "mobs_water"]
 	path = mobs_water
-	url = https://notabug.org/TenPlus1/mobs_water.git
+	url = https://github.com/minetest-mirrors/mobs_water.git
 [submodule "mobs_xenomorph"]
 	path = mobs_xenomorph
 	url = https://github.com/pandorabox-io/mobs_xenomorph.git
 [submodule "mob_horse"]
 	path = mob_horse
-	url = https://notabug.org/TenPlus1/mob_horse.git
+	url = https://github.com/minetest-mirrors/mob_horse.git
 [submodule "moderator_armor"]
 	path = moderator_armor
 	url = https://github.com/pandorabox-io/moderator_armor.git
