@@ -576,3 +576,6 @@
 [submodule "formspec_ast"]
 	path = formspec_ast
 	url = https://gitlab.com/luk3yx/minetest-formspec_ast
+[submodule "mtui_mod"]
+	path = mtui_mod
+	url = https://github.com/minetest-go/mtui_mod
