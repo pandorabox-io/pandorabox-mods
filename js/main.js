@@ -18,6 +18,9 @@ const router = new VueRouter({
 		path: "/moreblocks",
 		component: { template: `<moreblocks-list/>` }
 	}, {
+		path: "/stairsplus",
+		component: { template: `<stairsplus-list/>` }
+	}, {
 		path: "/cnc",
 		component: { template: `<cnc-list/>` }
 	}, {

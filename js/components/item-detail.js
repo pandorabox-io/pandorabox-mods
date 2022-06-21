@@ -44,6 +44,9 @@ Vue.component("item-detail", {
 				<a v-if="item.circular_saw" class="btn btn-xs btn-secondary" href="#/moreblocks">
 					<i class="fa fa-th-large"></i> Circular-saw
 				</a>
+				<a v-if="item.new_circular_saw" class="btn btn-xs btn-secondary" href="#/stairsplus">
+					<i class="fa fa-th-large"></i> Circular-saw
+				</a>
 				<a v-if="item.cnc" class="btn btn-xs btn-secondary" href="#/cnc">
 					<i class="fa fa-th"></i> Technic CNC
 				</a>

@@ -3,6 +3,9 @@ Vue.component("nav-bar", {
     has_moreblocks: function(){
       return mtinfo.items["moreblocks:circular_saw"];
     },
+    has_stairsplus: function(){
+      return mtinfo.items["stairsplus:circular_saw"];
+    },
     has_technic_cnc: function(){
       return mtinfo.items["technic:cnc"];
     }
@@ -35,6 +38,11 @@ Vue.component("nav-bar", {
 				<li v-if="has_moreblocks" class="nav-item">
           <router-link to="/moreblocks" class="nav-link">
             <i class="fa fa-th-large"></i> Moreblocks
+          </router-link>
+        </li>
+				<li v-if="has_stairsplus" class="nav-item">
+          <router-link to="/stairsplus" class="nav-link">
+            <i class="fa fa-th-large"></i> Stairs+
           </router-link>
         </li>
 				<li v-if="has_technic_cnc" class="nav-item">
