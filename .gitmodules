@@ -91,6 +91,9 @@
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://github.com/minetest-mirrors/bonemeal.git
+[submodule "bones"]
+	path = bones
+	url = https://github.com/OgelGames/bones
 [submodule "boost_cart"]
 	path = boost_cart
 	url = https://github.com/SmallJoker/boost_cart.git
