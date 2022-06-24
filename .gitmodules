@@ -223,6 +223,7 @@
 [submodule "homedecor_modpack"]
 	path = homedecor_modpack
 	url = https://github.com/mt-mods/homedecor_modpack.git
+	branch = fluxionary-patch-1
 [submodule "home_workshop_modpack"]
 	path = home_workshop_modpack
 	url = https://github.com/mt-mods/home_workshop_modpack.git
