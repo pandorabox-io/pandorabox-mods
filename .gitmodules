@@ -247,7 +247,7 @@
 	url = https://github.com/minetest-mods/jumping.git
 [submodule "lavastuff"]
 	path = lavastuff
-	url = https://github.com/LoneWolfHT/lavastuff.git
+	url = https://github.com/fluxionary/minetest-lavastuff.git
 [submodule "led_marquee"]
 	path = led_marquee
 	url = https://github.com/mt-mods/led_marquee.git
