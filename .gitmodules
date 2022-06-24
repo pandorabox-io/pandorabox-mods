@@ -354,7 +354,8 @@
 	url = https://github.com/minetest-monitoring/monitoring_technic.git
 [submodule "moreblocks"]
 	path = moreblocks
-	url = https://github.com/minetest-mods/moreblocks.git
+	url = https://github.com/fluxionary/minetest-moreblocks.git
+	branch = bugfixes
 [submodule "morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights.git
