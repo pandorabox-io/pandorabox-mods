@@ -582,3 +582,6 @@
 [submodule "xp_redo_ranks_ores"]
 	path = xp_redo_ranks_ores
 	url = https://github.com/mt-mods/xp_redo_ranks_ores.git
+[submodule "mtzip"]
+	path = mtzip
+	url = https://github.com/BuckarooBanzay/mtzip.git
