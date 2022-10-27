@@ -585,6 +585,3 @@
 [submodule "mtzip"]
 	path = mtzip
 	url = https://github.com/BuckarooBanzay/mtzip.git
-[submodule "metadata_cache"]
-	path = metadata_cache
-	url = https://github.com/minetest-monitoring/metadata_cache
