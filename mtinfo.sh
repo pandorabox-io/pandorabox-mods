@@ -7,5 +7,5 @@ docker run --rm -i \
 	-v $(pwd)/mtinfo-minetest.conf:/etc/minetest/minetest.conf \
 	-v /tmp/mt:/var/lib/minetest/.minetest \
 	-v $(pwd):/var/lib/minetest/.minetest/worlds/world/worldmods \
-	registry.gitlab.com/minetest/minetest/server:5.4.0
+	registry.gitlab.com/minetest/minetest/server:5.6.1
 
