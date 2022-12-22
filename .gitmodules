@@ -588,3 +588,6 @@
 [submodule "metadata_cache"]
 	path = metadata_cache
 	url = https://github.com/minetest-monitoring/metadata_cache
+[submodule "placeholder"]
+	path = placeholder
+	url = https://github.com/BuckarooBanzay/placeholder
