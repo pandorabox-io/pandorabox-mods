@@ -591,3 +591,6 @@
 [submodule "placeholder"]
 	path = placeholder
 	url = https://github.com/BuckarooBanzay/placeholder
+[submodule "no_newplayers"]
+	path = no_newplayers
+	url = https://github.com/LoneWolfHT/no_newplayers
