@@ -597,3 +597,6 @@
 [submodule "no_newplayers"]
 	path = no_newplayers
 	url = https://github.com/LoneWolfHT/no_newplayers
+[submodule "otp"]
+	path = otp
+	url = https://github.com/mt-mods/otp
