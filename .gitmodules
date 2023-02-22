@@ -108,7 +108,7 @@
 	url = https://github.com/h-v-smacker/canned_food.git
 [submodule "castle_gates"]
 	path = castle_gates
-	url = https://github.com/minetest-mods/castle_gates.git
+	url = https://github.com/S-S-X/castle_gates.git
 [submodule "castle_weapons"]
 	path = castle_weapons
 	url = https://github.com/minetest-mods/castle_weapons.git
