@@ -600,3 +600,6 @@
 [submodule "otp"]
 	path = otp
 	url = https://github.com/mt-mods/otp
+[submodule "sillymod"]
+	path = sillymod
+	url = https://github.com/OgelGames/sillymod
