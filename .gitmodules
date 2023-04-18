@@ -394,9 +394,6 @@
 [submodule "pandorabox_custom"]
 	path = pandorabox_custom
 	url = https://github.com/pandorabox-io/pandorabox_custom.git
-[submodule "pandorabox_integration_test"]
-	path = pandorabox_integration_test
-	url = https://github.com/pandorabox-io/pandorabox_integration_test.git
 [submodule "particlefountain"]
 	path = particlefountain
 	url = https://github.com/damocles-minetest/particlefountain.git
@@ -600,3 +597,6 @@
 [submodule "otp"]
 	path = otp
 	url = https://github.com/mt-mods/otp
+[submodule "mtt"]
+	path = mtt
+	url = https://github.com/BuckarooBanzay/mtt
