@@ -600,3 +600,6 @@
 [submodule "mtt"]
 	path = mtt
 	url = https://github.com/BuckarooBanzay/mtt
+[submodule "promise"]
+	path = promise
+	url = https://github.com/mt-mods/promise
