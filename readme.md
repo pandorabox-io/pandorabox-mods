@@ -1,32 +1,15 @@
 # Pandorabox mods
 
-![](https://github.com/pandorabox-io/pandorabox-mods/workflows/integration-test/badge.svg)
+![](https://github.com/pandorabox-io/pandorabox-mods/workflows/test/badge.svg)
 
 Pandorabox mod repo
 
 ## Install
 
-
-After cloning:
+After cloning or pulling:
 ```bash
-git submodule init
-git submodule update
+git submodule update --init --recursive
 ```
-
-## Updating
-
-```bash
-# sync repo urls
-git submodule sync
-# initialize new repos
-git submodule init
-# update commits
-git submodule update
-# remove unversioned files
-git clean -dff
-```
-
-Or use the `update.sh` script in the root path
 
 ## Advisable settings
 
@@ -61,5 +44,9 @@ geoip
 
 ## Testing
 
-The mod collection can be tested with the `test.sh` script.
-prerequisite is a working docker setup
+The mod collection can be tested with `docker` and `docker-compose`
+To start the tests:
+```sh
+docker-compose up
+```
+

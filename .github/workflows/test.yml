@@ -1,4 +1,4 @@
-name: integration-test
+name: test
 
 on: [push, pull_request]
 
@@ -14,7 +14,7 @@ jobs:
         submodules: recursive
 
     - name: test
-      run: ./test.sh
+      run: docker-compose up --exit-code-from test
 
     - name: 📧 Discord success notification
       continue-on-error: true
