@@ -47,6 +47,6 @@ geoip
 The mod collection can be tested with `docker` and `docker-compose`
 To start the tests:
 ```sh
-docker-compose up
+docker-compose up test
 ```
 
