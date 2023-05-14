@@ -573,3 +573,6 @@
 [submodule "promise"]
 	path = promise
 	url = https://github.com/mt-mods/promise
+[submodule "mooncontroller"]
+	path = mooncontroller
+	url = https://github.com/BuckarooBanzay/mooncontroller/
