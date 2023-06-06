@@ -576,3 +576,6 @@
 [submodule "mooncontroller"]
 	path = mooncontroller
 	url = https://github.com/BuckarooBanzay/mooncontroller/
+[submodule "vizlib"]
+	path = vizlib
+	url = https://github.com/OgelGames/vizlib
