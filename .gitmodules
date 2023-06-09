@@ -579,3 +579,6 @@
 [submodule "vizlib"]
 	path = vizlib
 	url = https://github.com/OgelGames/vizlib
+[submodule "tape_measure"]
+	path = tape_measure
+	url = https://github.com/OgelGames/tape_measure
