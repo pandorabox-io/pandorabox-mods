@@ -582,3 +582,6 @@
 [submodule "tape_measure"]
 	path = tape_measure
 	url = https://github.com/OgelGames/tape_measure
+[submodule "omnidriver"]
+	path = omnidriver
+	url = https://github.com/OgelGames/omnidriver
