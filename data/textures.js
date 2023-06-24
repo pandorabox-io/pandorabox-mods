@@ -1,1 +1,1 @@
-mtinfo.textures={"count":7180.0,"size":12806116.0};
+mtinfo.textures={"count":7179.0,"size":12806035.0};
