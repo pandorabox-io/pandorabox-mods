@@ -186,7 +186,7 @@
 	url = https://github.com/minetest-mirrors/farming.git
 [submodule "farming_nextgen"]
 	path = farming_nextgen
-	url = https://github.com/OgelGames/farming_nextgen.git
+	url = https://github.com/berengma/farming_nextgen.git
 [submodule "find_nodes_in_area_cache"]
 	path = find_nodes_in_area_cache
 	url = https://github.com/BuckarooBanzay/find_nodes_in_area_cache.git
