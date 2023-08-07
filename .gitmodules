@@ -585,3 +585,6 @@
 [submodule "omnidriver"]
 	path = omnidriver
 	url = https://github.com/OgelGames/omnidriver
+[submodule "wrench"]
+	path = wrench
+	url = https://github.com/mt-mods/wrench
