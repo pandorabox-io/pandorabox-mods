@@ -453,7 +453,7 @@
 	url = https://github.com/pandorabox-io/skybox.git
 [submodule "slats"]
 	path = slats
-	url = https://github.com/v-rob/slats
+	url = https://github.com/mt-mods/slats
 [submodule "sling"]
 	path = sling
 	url = https://github.com/BuckarooBanzay/sling.git
