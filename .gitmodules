@@ -588,3 +588,6 @@
 [submodule "wrench"]
 	path = wrench
 	url = https://github.com/mt-mods/wrench
+[submodule "fancy_travelnet"]
+	path = fancy_travelnet
+	url = https://github.com/mt-mods/fancy_travelnet
