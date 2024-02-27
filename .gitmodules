@@ -591,3 +591,6 @@
 [submodule "fancy_travelnet"]
 	path = fancy_travelnet
 	url = https://github.com/mt-mods/fancy_travelnet
+[submodule "xcompat"]
+	path = xcompat
+	url = https://github.com/mt-mods/xcompat
