@@ -1,6 +1,6 @@
 [submodule ".partial_mods/cool_trees"]
 	path = .partial_mods/cool_trees
-	url = https://github.com/runsy/cool_trees.git
+	url = https://github.com/pandorabox-io/cool_trees.git
 [submodule "3d_armor"]
 	path = 3d_armor
 	url = https://github.com/minetest-mods/3d_armor.git
