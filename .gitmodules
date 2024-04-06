@@ -147,7 +147,7 @@
 	url = https://github.com/mt-mods/digistuff.git
 [submodule "digiterms"]
 	path = digiterms
-	url = https://github.com/pyrollo/digiterms.git
+	url = https://github.com/mt-mods/digiterms.git
 [submodule "digtron"]
 	path = digtron
 	url = https://github.com/minetest-mods/digtron.git
