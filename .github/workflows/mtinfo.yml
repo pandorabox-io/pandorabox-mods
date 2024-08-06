@@ -17,7 +17,7 @@ jobs:
         submodules: recursive
 
     - name: generate
-      run: docker-compose up --exit-code-from mtinfo mtinfo
+      run: docker compose up --exit-code-from mtinfo mtinfo
 
     - name: deploy
       if: github.ref == 'refs/heads/master'
