@@ -6,7 +6,6 @@ List of accepted texture names
 
 Public skin available for all users:
 	character.[number or name].png
-	^ The allowed characters in "[number or name]" are "[A-z0-9_.-]+".
 
 One or multiple private skins for player "[nick]":
 	player.[nick].png
