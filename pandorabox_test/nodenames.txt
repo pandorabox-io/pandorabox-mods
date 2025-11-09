@@ -1952,7 +1952,6 @@ advtrains_signals_ks:sign_lf_6_30
 advtrains_signals_ks:sign_lf_12_30
 advtrains_signals_ks:sign_lf_e_30
 advtrains_signals_ks:sign_lf7_4_30
-advtrains_signals_ks:sign_lf7_20_30
 advtrains_signals_ks:sign_lf7_16_30
 advtrains_signals_ks:sign_lf7_8_30
 advtrains_signals_ks:sign_lf7_12_30
@@ -2850,9 +2849,6 @@ advtrains:signal_wall_r_off
 advtrains:signal_wall_r_on
 advtrains:signal_wall_t_off
 advtrains:signal_wall_t_on
-advtrains_interlocking:ds_danger
-advtrains_interlocking:ds_free
-advtrains_interlocking:ds_slow
 advtrains_interlocking:dtrack_npr_st
 advtrains_interlocking:dtrack_npr_st_30
 advtrains_interlocking:dtrack_npr_st_45
@@ -7803,7 +7799,6 @@ bridger:truss_superstructure_tall_simple_end_left_yellow
 advtrains_signals_ks:sign_lf7_4_0
 bridger:truss_superstructure_tall_simple_end_right_red
 bridger:truss_superstructure_tall_simple_end_right_steel
-advtrains_signals_ks:sign_lf7_20_0
 bridger:truss_superstructure_tall_simple_end_right_yellow
 bridger:truss_superstructure_tall_simple_green
 advtrains_signals_ks:sign_lf7_16_0
@@ -8293,7 +8288,6 @@ moreblocks:panel_tinblock_1
 moreblocks:panel_tinblock_12
 advtrains_signals_ks:sign_lf_e_45
 advtrains_signals_ks:sign_lf7_4_45
-advtrains_signals_ks:sign_lf7_20_45
 advtrains_signals_ks:sign_lf7_16_45
 advtrains_signals_ks:sign_lf7_8_45
 advtrains_signals_ks:sign_lf7_12_45
@@ -10045,7 +10039,6 @@ default:stonebrick_technic_cnc_slope_inner_edge
 default:stonebrick_technic_cnc_slope_inner_edge_upsdown
 default:stonebrick_technic_cnc_slope_lying
 default:stonebrick_technic_cnc_slope_upsdown
-advtrains_signals_ks:sign_lf7_20_60
 default:stonebrick_technic_cnc_spike
 advtrains_signals_ks:sign_lf7_16_60
 default:stonebrick_technic_cnc_twocurvededge
