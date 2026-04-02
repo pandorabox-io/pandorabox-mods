@@ -597,6 +597,3 @@
 [submodule "fakelib"]
 	path = fakelib
 	url = https://github.com/OgelGames/fakelib
-[submodule "sillymod"]
-	path = sillymod
-	url = https://github.com/OgelGames/sillymod
