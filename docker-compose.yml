@@ -1,24 +1,21 @@
 version: "3.6"
 
 services:
- test:
-  image: registry.gitlab.com/minetest/minetest/server:5.7.0
-  user: root
-  entrypoint: "minetestserver --config /minetest.conf"
-  volumes:
-    - "./:/root/.minetest/worlds/world/worldmods/"
-    - "./test-minetest.conf:/minetest.conf"
-    - "world:/root/.minetest/worlds/world"
-
- mtinfo:
-  image: registry.gitlab.com/minetest/minetest/server:5.7.0
-  user: root
-  entrypoint: "minetestserver --config /minetest.conf"
-  volumes:
-    - "./:/root/.minetest/worlds/world/worldmods/"
-    - "./.mtinfo:/root/.minetest/worlds/world/mtinfo/"
-    - "./mtinfo-minetest.conf:/minetest.conf"
-    - "world:/root/.minetest/worlds/world"
-
-volumes:
-  world: {}
+  mtt:
+    #image: ghcr.io/buckaroobanzay/mtt:latest
+    build:
+      context: ../mtt
+    volumes:
+     - "./:/github/workspace"
+    environment:
+     INPUT_TEST_MODE: "modrepo"
+     INPUT_MAPGEN: "v7"
+     INPUT_MTT_FILTER: "pandorabox_test"
+     INPUT_GIT_GAME_REPO: "https://github.com/luanti-org/minetest_game"
+     INPUT_ADDITIONAL_CONFIG: |
+      areas.self_protection = true
+      mesecon.luacontroller_lightweight_interrupts = true
+      moreblocks.stairsplus_in_creative_inventory = false
+      bridger_enable_trusses = true
+      telemosaic_right_click_teleport = true
+      secure.http_mods = monitoring,digistuff,blockexchange
