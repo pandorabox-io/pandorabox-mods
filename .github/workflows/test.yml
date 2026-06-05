@@ -13,8 +13,19 @@ jobs:
         fetch-depth: 0
         submodules: recursive
 
-    - name: test
-      run: docker compose up --exit-code-from mtt mtt
+    - uses: buckaroobanzay/mtt@main
+      with:
+        test_mode: modrepo
+        mapgen: "v7"
+        mtt_filter: pandorabox_test
+        git_game_repo: "https://github.com/luanti-org/minetest_game"
+        additional_config: |
+          areas.self_protection = true
+          mesecon.luacontroller_lightweight_interrupts = true
+          moreblocks.stairsplus_in_creative_inventory = false
+          bridger_enable_trusses = true
+          telemosaic_right_click_teleport = true
+          secure.http_mods = monitoring,digistuff,blockexchange
 
     - name: 📧 Discord success notification
       continue-on-error: true
