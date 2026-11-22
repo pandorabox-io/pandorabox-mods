@@ -6,7 +6,7 @@
 	url = https://github.com/minetest-mods/3d_armor.git
 [submodule "advtrains"]
 	path = advtrains
-	url = https://github.com/minetest-mirrors/advtrains.git
+	url = https://codeberg.org/advtrains/advtrains.git
 [submodule "advtrains_custom"]
 	path = advtrains_custom
 	url = https://github.com/pandorabox-io/advtrains_custom.git
